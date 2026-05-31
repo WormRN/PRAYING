@@ -1,0 +1,14 @@
+{
+  "name": "P.R.A.Y.I.N.G. — Formed For More",
+  "short_name": "PRAYING",
+  "description": "Praying the seven requests of the Lord's Prayer.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf9f5",
+  "theme_color": "#0c2340",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

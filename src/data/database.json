@@ -1,0 +1,4044 @@
+{
+"promote": [
+{
+"ID": "P01",
+"Name / Attribute": "Father",
+"Description": "Adopted and reconciled. I come as a child in good standing, holy, blameless, without fault.",
+"Primary Scripture": "Romans 8:15",
+"Primary Scripture Text (BSB)": "For you did not receive a spirit of slavery that returns you to fear, but you received the Spirit of sonship, by whom we cry, \"Abba! Father!\"",
+"See Also References": "Galatians 4:6; Ephesians 1:5",
+"Theme Group": "Relationship"
+},
+{
+"ID": "P02",
+"Name / Attribute": "Alpha",
+"Description": "Origin and creator. Before time, after time, on time.",
+"Primary Scripture": "Revelation 1:8",
+"Primary Scripture Text (BSB)": "\"I am the Alpha and the Omega,\" says the Lord God, \"who is and who was and who is to come, the Almighty.\"",
+"See Also References": "Revelation 22:13; Isaiah 44:6",
+"Theme Group": "Eternality"
+},
+{
+"ID": "P03",
+"Name / Attribute": "Bigger Than All My Problems",
+"Description": "Nothing is too big for You. Faith the size of a mustard seed moves mountains.",
+"Primary Scripture": "Matthew 17:20",
+"Primary Scripture Text (BSB)": "\"Because of your little faith,\" He told them. \"For truly I tell you, if you have faith the size of a mustard seed, you can say to this mountain, 'Move from here to there,' and it will move. Nothing will be impossible for you.\"",
+"See Also References": "Jeremiah 32:17; Luke 1:37",
+"Theme Group": "Power"
+},
+{
+"ID": "P04",
+"Name / Attribute": "First",
+"Description": "Nothing precedes You. You are before all things.",
+"Primary Scripture": "Revelation 22:13",
+"Primary Scripture Text (BSB)": "\"I am the Alpha and the Omega, the First and the Last, the Beginning and the End.\"",
+"See Also References": "Colossians 1:17; Isaiah 44:6",
+"Theme Group": "Eternality"
+},
+{
+"ID": "P05",
+"Name / Attribute": "Beginning-less",
+"Description": "Not created. You have no origin because You are the origin.",
+"Primary Scripture": "Psalm 90:2",
+"Primary Scripture Text (BSB)": "Before the mountains were born or You brought forth the earth and the world, from everlasting to everlasting You are God.",
+"See Also References": "Revelation 22:13; John 1:1",
+"Theme Group": "Eternality"
+},
+{
+"ID": "P06",
+"Name / Attribute": "Healer",
+"Description": "Resurrection is easy for You.",
+"Primary Scripture": "Exodus 15:26",
+"Primary Scripture Text (BSB)": "He said, \"If you will listen carefully to the voice of the LORD your God, and do what is right in His eyes, and pay attention to His commandments, and keep all His statutes, I will not bring on you any of the diseases I brought on the Egyptians. For I am the LORD who heals you.\"",
+"See Also References": "Psalm 103:2-3; Isaiah 53:5; Jeremiah 17:14",
+"Theme Group": "Redemptive Work"
+},
+{
+"ID": "P07",
+"Name / Attribute": "Judge",
+"Description": "All will stand and bow. Every account will be settled.",
+"Primary Scripture": "Revelation 20:13",
+"Primary Scripture Text (BSB)": "The sea gave up its dead, and Death and Hades gave up their dead, and each one was judged according to his deeds.",
+"See Also References": "2 Corinthians 5:10; Romans 14:12",
+"Theme Group": "Sovereignty"
+},
+{
+"ID": "P08",
+"Name / Attribute": "Ultimate Justice",
+"Description": "Vengeance belongs to You. You will repay.",
+"Primary Scripture": "Hebrews 10:30",
+"Primary Scripture Text (BSB)": "For we know Him who said, \"Vengeance is Mine; I will repay,\" and again, \"The Lord will judge His people.\"",
+"See Also References": "Romans 12:19; Deuteronomy 32:35",
+"Theme Group": "Sovereignty"
+},
+{
+"ID": "P09",
+"Name / Attribute": "Unapproachable Light",
+"Description": "You dwell in light no one can approach. You are beyond comprehension.",
+"Primary Scripture": "1 Timothy 6:16",
+"Primary Scripture Text (BSB)": "He alone is immortal and dwells in unapproachable light. No one has ever seen Him, nor can anyone see Him. To Him be honor and eternal dominion! Amen.",
+"See Also References": "Psalm 104:2; 1 John 1:5",
+"Theme Group": "Nature"
+},
+{
+"ID": "P10",
+"Name / Attribute": "The Vine",
+"Description": "Let me stay connected to You. Apart from You I can do nothing.",
+"Primary Scripture": "John 15:5",
+"Primary Scripture Text (BSB)": "\"I am the vine; you are the branches. The one who remains in Me, and I in him, will bear much fruit. For apart from Me you can do nothing.\"",
+"See Also References": "John 15:1-8",
+"Theme Group": "Relationship"
+},
+{
+"ID": "P11",
+"Name / Attribute": "The Way",
+"Description": "Stay on track. You are the only path to the Father.",
+"Primary Scripture": "John 14:6",
+"Primary Scripture Text (BSB)": "Jesus answered, \"I am the way and the truth and the life. No one comes to the Father except through Me.\"",
+"See Also References": "Acts 4:12; Hebrews 10:19-20",
+"Theme Group": "Identity of Christ"
+},
+{
+"ID": "P12",
+"Name / Attribute": "The Truth",
+"Description": "Everything else is a lie. You are the standard against which all reality is measured.",
+"Primary Scripture": "John 14:6",
+"Primary Scripture Text (BSB)": "Jesus answered, \"I am the way and the truth and the life. No one comes to the Father except through Me.\"",
+"See Also References": "John 17:17; Psalm 119:160",
+"Theme Group": "Identity of Christ"
+},
+{
+"ID": "P13",
+"Name / Attribute": "The Life",
+"Description": "What I see fades. Even in my dying, He is life.",
+"Primary Scripture": "John 14:6",
+"Primary Scripture Text (BSB)": "Jesus answered, \"I am the way and the truth and the life. No one comes to the Father except through Me.\"",
+"See Also References": "John 11:25-26; John 1:4; Colossians 3:4",
+"Theme Group": "Identity of Christ"
+},
+{
+"ID": "P14",
+"Name / Attribute": "Love",
+"Description": "You are patient, kind, calm, enduring. Your love defines love itself.",
+"Primary Scripture": "1 John 4:8",
+"Primary Scripture Text (BSB)": "Whoever does not love does not know God, because God is love.",
+"See Also References": "1 Corinthians 13:4-7; Romans 8:38-39; Jeremiah 31:3",
+"Theme Group": "Character"
+},
+{
+"ID": "P15",
+"Name / Attribute": "Patient",
+"Description": "No rush to be done. Your patience leads to repentance.",
+"Primary Scripture": "Romans 2:4",
+"Primary Scripture Text (BSB)": "Or do you disregard the riches of His kindness, tolerance, and patience, not realizing that God's kindness leads you to repentance?",
+"See Also References": "2 Peter 3:9; Exodus 34:6",
+"Theme Group": "Character"
+},
+{
+"ID": "P16",
+"Name / Attribute": "Omniscient",
+"Description": "Playing infinite chess. You search the heart and test the mind.",
+"Primary Scripture": "Jeremiah 17:10",
+"Primary Scripture Text (BSB)": "I, the LORD, search the heart; I examine the mind to reward a man according to his way, by what his deeds deserve.",
+"See Also References": "Isaiah 40:13; 1 Corinthians 2:16; Psalm 139:1-4",
+"Theme Group": "Power"
+},
+{
+"ID": "P17",
+"Name / Attribute": "Timeless",
+"Description": "Before time, after time, on time, and willing to go overtime.",
+"Primary Scripture": "Psalm 90:2",
+"Primary Scripture Text (BSB)": "Before the mountains were born or You brought forth the earth and the world, from everlasting to everlasting You are God.",
+"See Also References": "2 Peter 3:8; Isaiah 57:15",
+"Theme Group": "Eternality"
+},
+{
+"ID": "P18",
+"Name / Attribute": "Righteous",
+"Description": "Everything You do is right. Your character is the definition of justice.",
+"Primary Scripture": "Psalm 145:17",
+"Primary Scripture Text (BSB)": "The LORD is righteous in all His ways and loving in all His deeds.",
+"See Also References": "Psalm 11:7; Daniel 9:14",
+"Theme Group": "Character"
+},
+{
+"ID": "P19",
+"Name / Attribute": "Holding All Things Together",
+"Description": "Reality would shatter without You. You sustain every particle.",
+"Primary Scripture": "Colossians 1:17",
+"Primary Scripture Text (BSB)": "He is before all things, and in Him all things hold together.",
+"See Also References": "Hebrews 1:3; Acts 17:28",
+"Theme Group": "Power"
+},
+{
+"ID": "P20",
+"Name / Attribute": "Unshakable",
+"Description": "Immovable, beyond erosion. You do not change.",
+"Primary Scripture": "Malachi 3:6",
+"Primary Scripture Text (BSB)": "\"For I, the LORD, do not change; therefore you, O sons of Jacob, have not been consumed.\"",
+"See Also References": "Hebrews 13:8; James 1:17",
+"Theme Group": "Nature"
+},
+{
+"ID": "P21",
+"Name / Attribute": "None Like Him",
+"Description": "Incomparable. Who has measured the waters in the hollow of His hand?",
+"Primary Scripture": "Isaiah 40:25",
+"Primary Scripture Text (BSB)": "\"To whom will you compare Me, or who is My equal?\" asks the Holy One.",
+"See Also References": "Isaiah 40:12; Exodus 15:11; Psalm 86:8",
+"Theme Group": "Nature"
+},
+{
+"ID": "P22",
+"Name / Attribute": "Source of All Good Things",
+"Description": "Every good gift comes from You. None is from my strength.",
+"Primary Scripture": "James 1:17",
+"Primary Scripture Text (BSB)": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.",
+"See Also References": "Psalm 16:2; 1 Chronicles 29:14",
+"Theme Group": "Sufficiency"
+},
+{
+"ID": "P23",
+"Name / Attribute": "Namer of Stars",
+"Description": "You alone can track infinite particles at a quantum level.",
+"Primary Scripture": "Psalm 147:4",
+"Primary Scripture Text (BSB)": "He determines the number of the stars; He calls them each by name.",
+"See Also References": "Isaiah 40:26",
+"Theme Group": "Power"
+},
+{
+"ID": "P24",
+"Name / Attribute": "Thermonuclear Power",
+"Description": "Your breath created all that is and holds it together at infinite scale.",
+"Primary Scripture": "Psalm 33:6",
+"Primary Scripture Text (BSB)": "By the word of the LORD the heavens were made, and all the stars by the breath of His mouth.",
+"See Also References": "Hebrews 11:3; Genesis 1:3",
+"Theme Group": "Power"
+},
+{
+"ID": "P25",
+"Name / Attribute": "Powerful and Mighty",
+"Description": "No one can withstand Your power. You rule over all.",
+"Primary Scripture": "2 Chronicles 20:6",
+"Primary Scripture Text (BSB)": "and said, \"O LORD, God of our fathers, are You not the God who is in heaven, and do You not rule over all the kingdoms of the nations? Power and might are in Your hand, and no one can stand against You.\"",
+"See Also References": "Psalm 89:8; Jeremiah 32:17",
+"Theme Group": "Power"
+},
+{
+"ID": "P26",
+"Name / Attribute": "Never Tires",
+"Description": "You do not faint or grow weary. Your understanding is unsearchable.",
+"Primary Scripture": "Isaiah 40:28",
+"Primary Scripture Text (BSB)": "Do you not know? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary; His understanding is beyond searching out.",
+"See Also References": "Psalm 121:3-4",
+"Theme Group": "Nature"
+},
+{
+"ID": "P27",
+"Name / Attribute": "Restorer",
+"Description": "You do not cast away forever. You devise means for the banished to return.",
+"Primary Scripture": "2 Samuel 14:14",
+"Primary Scripture Text (BSB)": "For surely we will die and be like water spilled on the ground, which cannot be recovered. Yet God does not take away a life; instead, He devises ways so that the banished one may not remain estranged from Him.",
+"See Also References": "Psalm 23:3; Joel 2:25",
+"Theme Group": "Redemptive Work"
+},
+{
+"ID": "P28",
+"Name / Attribute": "Beyond Need",
+"Description": "Sufficient. You are not served by human hands as if You needed anything.",
+"Primary Scripture": "Acts 17:24-25",
+"Primary Scripture Text (BSB)": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands. Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else.",
+"See Also References": "Psalm 50:10-12",
+"Theme Group": "Sufficiency"
+},
+{
+"ID": "P29",
+"Name / Attribute": "Kind",
+"Description": "Gracious and compassionate. Full of mercy.",
+"Primary Scripture": "Psalm 116:5",
+"Primary Scripture Text (BSB)": "The LORD is gracious and righteous; our God is compassionate.",
+"See Also References": "Psalm 145:8-9; Ephesians 2:7",
+"Theme Group": "Character"
+},
+{
+"ID": "P30",
+"Name / Attribute": "Lifter of My Head",
+"Description": "You revive courage. You are near the brokenhearted.",
+"Primary Scripture": "Psalm 3:3",
+"Primary Scripture Text (BSB)": "But You, O LORD, are a shield around me, my glory, and the lifter of my head.",
+"See Also References": "Isaiah 57:15; Psalm 34:18",
+"Theme Group": "Relationship"
+},
+{
+"ID": "P31",
+"Name / Attribute": "I Am",
+"Description": "Present tense. You are not past tense or future tense. You are here, now.",
+"Primary Scripture": "Exodus 3:14",
+"Primary Scripture Text (BSB)": "God said to Moses, \"I AM WHO I AM. This is what you are to say to the Israelites: 'I AM has sent me to you.'\"",
+"See Also References": "John 8:58; Revelation 1:8",
+"Theme Group": "Nature"
+},
+{
+"ID": "P32",
+"Name / Attribute": "The High and Lofty One",
+"Description": "You inhabit eternity. Yet You are with the contrite and lowly.",
+"Primary Scripture": "Isaiah 57:15",
+"Primary Scripture Text (BSB)": "For thus says the One who is high and lifted up, who inhabits eternity, whose name is Holy: \"I dwell in the high and holy place, and also with the contrite and lowly in spirit, to revive the spirit of the lowly and to revive the heart of the contrite.\"",
+"See Also References": "Psalm 113:4-6",
+"Theme Group": "Nature"
+},
+{
+"ID": "P33",
+"Name / Attribute": "Immaterial",
+"Description": "God is Spirit. Not confined to matter, space, or form.",
+"Primary Scripture": "John 4:24",
+"Primary Scripture Text (BSB)": "God is Spirit, and His worshipers must worship Him in spirit and in truth.",
+"See Also References": "Colossians 1:15; 1 Timothy 1:17",
+"Theme Group": "Nature"
+},
+{
+"ID": "P34",
+"Name / Attribute": "Personal",
+"Description": "You are not a distant force. You know me by name and count the hairs on my head.",
+"Primary Scripture": "Matthew 10:30",
+"Primary Scripture Text (BSB)": "And even the very hairs of your head are all numbered.",
+"See Also References": "Psalm 139:1-4; Jeremiah 1:5",
+"Theme Group": "Relationship"
+},
+{
+"ID": "P35",
+"Name / Attribute": "Controller",
+"Description": "Able conductor. All things are under Your authority.",
+"Primary Scripture": "Daniel 4:35",
+"Primary Scripture Text (BSB)": "All the peoples of the earth are counted as nothing, and He does as He pleases with the army of heaven and the peoples of the earth. There is no one who can restrain His hand or say to Him, 'What have You done?'",
+"See Also References": "Proverbs 21:1; Isaiah 46:10",
+"Theme Group": "Sovereignty"
+},
+{
+"ID": "P36",
+"Name / Attribute": "Atonement",
+"Description": "You provided the sacrifice. The debt has been paid.",
+"Primary Scripture": "Romans 3:25",
+"Primary Scripture Text (BSB)": "God presented Him as the atoning sacrifice through faith in His blood, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand.",
+"See Also References": "1 John 2:2; Hebrews 9:12",
+"Theme Group": "Redemptive Work"
+},
+{
+"ID": "P37",
+"Name / Attribute": "The End",
+"Description": "You are the last word. History concludes in You.",
+"Primary Scripture": "Revelation 22:13",
+"Primary Scripture Text (BSB)": "I am the Alpha and the Omega, the First and the Last, the Beginning and the End.",
+"See Also References": "Isaiah 46:10; Revelation 21:6",
+"Theme Group": "Eternality"
+},
+{
+"ID": "P38",
+"Name / Attribute": "Almighty One",
+"Description": "El Shaddai. God All-Sufficient, God Almighty.",
+"Primary Scripture": "Genesis 17:1",
+"Primary Scripture Text (BSB)": "When Abram was ninety-nine years old, the LORD appeared to him and said, \"I am God Almighty. Walk before Me and be blameless.\"",
+"See Also References": "Revelation 1:8; Revelation 4:8",
+"Theme Group": "Power"
+},
+{
+"ID": "P39",
+"Name / Attribute": "Commander of Heaven's Host",
+"Description": "The armies of heaven are at Your command.",
+"Primary Scripture": "Joshua 5:14",
+"Primary Scripture Text (BSB)": "\"Neither,\" He replied. \"I have now come as Commander of the LORD's army.\" Then Joshua fell facedown in reverence and asked Him, \"What does my Lord have to say to His servant?\"",
+"See Also References": "2 Kings 6:17; Psalm 103:20-21",
+"Theme Group": "Sovereignty"
+},
+{
+"ID": "P40",
+"Name / Attribute": "My Reason for Joy",
+"Description": "You are my exceeding joy. My gladness has a name.",
+"Primary Scripture": "Psalm 43:4",
+"Primary Scripture Text (BSB)": "Then I will go to the altar of God, to God my exceeding joy. I will praise You with the harp, O God, my God.",
+"See Also References": "Psalm 16:11; Nehemiah 8:10",
+"Theme Group": "Relationship"
+},
+{
+"ID": "P41",
+"Name / Attribute": "Emmanuel — God Among Us",
+"Description": "You are not far off. You chose to dwell among us.",
+"Primary Scripture": "Matthew 1:23",
+"Primary Scripture Text (BSB)": "\"Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel\" — which means, \"God with us.\"",
+"See Also References": "Isaiah 7:14; John 1:14",
+"Theme Group": "Identity of Christ"
+},
+{
+"ID": "P42",
+"Name / Attribute": "God In Us",
+"Description": "My source, strength, wisdom, guide, purpose. Christ in me, the hope of glory.",
+"Primary Scripture": "Colossians 1:27",
+"Primary Scripture Text (BSB)": "To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.",
+"See Also References": "Galatians 2:20; John 14:17",
+"Theme Group": "Relationship"
+},
+{
+"ID": "P43",
+"Name / Attribute": "Provider",
+"Description": "All I need. You supply according to Your riches in glory.",
+"Primary Scripture": "Philippians 4:19",
+"Primary Scripture Text (BSB)": "And my God will supply all your needs according to His glorious riches in Christ Jesus.",
+"See Also References": "Matthew 6:31-33; Psalm 23:1",
+"Theme Group": "Sufficiency"
+},
+{
+"ID": "P44",
+"Name / Attribute": "Shepherd",
+"Description": "You protect and lead. I shall not want.",
+"Primary Scripture": "Psalm 23:1",
+"Primary Scripture Text (BSB)": "The LORD is my shepherd; I shall not want.",
+"See Also References": "John 10:11; John 10:14; Psalm 23:1-6",
+"Theme Group": "Relationship"
+},
+{
+"ID": "P45",
+"Name / Attribute": "He Was, Is, and Is to Come",
+"Description": "Not hidden in time or by time. You transcend every moment.",
+"Primary Scripture": "Revelation 4:8",
+"Primary Scripture Text (BSB)": "And each of the four living creatures had six wings and was covered with eyes all around and within. Day and night they never stop saying: \"Holy, Holy, Holy, is the Lord God Almighty, who was and is and is to come!\"",
+"See Also References": "Revelation 1:8; Hebrews 13:8",
+"Theme Group": "Eternality"
+},
+{
+"ID": "P46",
+"Name / Attribute": "The Seeker",
+"Description": "Relentless, chasing, seeking, finding, returning, restoring.",
+"Primary Scripture": "Luke 15:4",
+"Primary Scripture Text (BSB)": "\"What man among you, if he has a hundred sheep and loses one of them, does not leave the ninety-nine in the open pasture and go after the one that is lost, until he finds it?\"",
+"See Also References": "Luke 15:1-32; Ezekiel 34:11-12",
+"Theme Group": "Redemptive Work"
+},
+{
+"ID": "P47",
+"Name / Attribute": "The Word",
+"Description": "In the beginning was the Word. You spoke and creation obeyed.",
+"Primary Scripture": "John 1:1",
+"Primary Scripture Text (BSB)": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+"See Also References": "John 1:14; Hebrews 4:12; Revelation 19:13",
+"Theme Group": "Identity of Christ"
+},
+{
+"ID": "P48",
+"Name / Attribute": "Living God",
+"Description": "Not an idol of stone. You are alive, active, and present.",
+"Primary Scripture": "1 Timothy 4:10",
+"Primary Scripture Text (BSB)": "For to this end we toil and strive, because we have set our hope on the living God, who is the Savior of all men, and especially of those who believe.",
+"See Also References": "Jeremiah 10:10; Daniel 6:26; Hebrews 3:12",
+"Theme Group": "Nature"
+},
+{
+"ID": "P49",
+"Name / Attribute": "Consuming Fire",
+"Description": "Your holiness burns away everything impure.",
+"Primary Scripture": "Hebrews 12:29",
+"Primary Scripture Text (BSB)": "For our God is a consuming fire.",
+"See Also References": "Deuteronomy 4:24; Exodus 24:17",
+"Theme Group": "Nature"
+},
+{
+"ID": "P50",
+"Name / Attribute": "Redeemer",
+"Description": "You buy back what was lost. You reclaim what the enemy stole.",
+"Primary Scripture": "Isaiah 44:6",
+"Primary Scripture Text (BSB)": "This is what the LORD, the King of Israel and his Redeemer, the LORD of Hosts, says: \"I am the first and I am the last, and there is no God but Me.\"",
+"See Also References": "Job 19:25; Isaiah 43:1; Galatians 3:13",
+"Theme Group": "Redemptive Work"
+},
+{
+"ID": "P51",
+"Name / Attribute": "King",
+"Description": "Sovereign ruler. King of kings, Lord of lords.",
+"Primary Scripture": "1 Timothy 6:15",
+"Primary Scripture Text (BSB)": "which God will bring about in His own time — He who is blessed and the only Sovereign, the King of kings and Lord of lords.",
+"See Also References": "Revelation 19:16; Psalm 47:7; Daniel 2:47",
+"Theme Group": "Sovereignty"
+},
+{
+"ID": "P52",
+"Name / Attribute": "Wise and Worthy",
+"Description": "Your wisdom is unsearchable. Your worth is beyond measure.",
+"Primary Scripture": "Isaiah 40:12",
+"Primary Scripture Text (BSB)": "Who has measured the waters in the hollow of His hand, or marked off the heavens with the span of His hand? Who has held the dust of the earth in a basket, or weighed the mountains on a scale and the hills with a balance?",
+"See Also References": "Isaiah 40:16, 31; Romans 11:33; Revelation 5:12",
+"Theme Group": "Nature"
+},
+{
+"ID": "P53",
+"Name / Attribute": "Author of Life",
+"Description": "You are the source. Life itself originates in You.",
+"Primary Scripture": "Acts 3:15",
+"Primary Scripture Text (BSB)": "You killed the Author of life, but God raised Him from the dead, and we are witnesses of the fact.",
+"See Also References": "John 1:3-4; Colossians 1:16",
+"Theme Group": "Identity of Christ"
+},
+{
+"ID": "P54",
+"Name / Attribute": "God of Surprise",
+"Description": "You are not predictable. You work beyond my imagination.",
+"Primary Scripture": "1 Peter 4:12",
+"Primary Scripture Text (BSB)": "Beloved, do not be surprised at the fiery trial that has come upon you, as though something strange were happening to you.",
+"See Also References": "Acts 3:12; Ephesians 3:20; Isaiah 55:8-9",
+"Theme Group": "Character"
+},
+{
+"ID": "P55",
+"Name / Attribute": "Independent Resource",
+"Description": "You need nothing from anyone. You are wholly self-sufficient.",
+"Primary Scripture": "Acts 17:24-25",
+"Primary Scripture Text (BSB)": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands. Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else.",
+"See Also References": "Psalm 50:10-12",
+"Theme Group": "Sufficiency"
+},
+{
+"ID": "P56",
+"Name / Attribute": "Infinite Resource",
+"Description": "From His glorious, unlimited resources He empowers with inner strength.",
+"Primary Scripture": "Ephesians 3:16",
+"Primary Scripture Text (BSB)": "I pray that out of the riches of His glory, He may strengthen you with power through His Spirit in your inner being.",
+"See Also References": "Ephesians 1:18-19; Philippians 4:19",
+"Theme Group": "Sufficiency"
+},
+{
+"ID": "P57",
+"Name / Attribute": "Delight",
+"Description": "I delight in the Lord. He delights in me.",
+"Primary Scripture": "Psalm 37:4",
+"Primary Scripture Text (BSB)": "Delight yourself in the LORD, and He will give you the desires of your heart.",
+"See Also References": "Psalm 37:23; Zephaniah 3:17",
+"Theme Group": "Relationship"
+},
+{
+"ID": "P58",
+"Name / Attribute": "He Holds My Tears",
+"Description": "There is a record of each one. Nothing is forgotten.",
+"Primary Scripture": "Psalm 56:8",
+"Primary Scripture Text (BSB)": "You have taken account of my wanderings; put my tears in Your bottle. Are they not in Your book?",
+"See Also References": "Revelation 21:4",
+"Theme Group": "Relationship"
+},
+{
+"ID": "P59",
+"Name / Attribute": "He Rewards Those Who Seek Him",
+"Description": "Drawing near is never wasted. He is found by those who look.",
+"Primary Scripture": "Hebrews 11:6",
+"Primary Scripture Text (BSB)": "And without faith it is impossible to please God, because anyone who comes to Him must believe that He exists and that He rewards those who earnestly seek Him.",
+"See Also References": "Jeremiah 29:13; Matthew 7:7",
+"Theme Group": "Relationship"
+},
+{
+"ID": "P60",
+"Name / Attribute": "God on My Side",
+"Description": "He hears me. He is for me.",
+"Primary Scripture": "Psalm 56:9",
+"Primary Scripture Text (BSB)": "Then my enemies will turn back on the day I call. This I know: God is for me.",
+"See Also References": "Romans 8:31; Psalm 118:6",
+"Theme Group": "Relationship"
+}
+],
+"worship365": [
+{
+"Week": 1,
+"Name (Hebrew)": "Yahweh",
+"Name (English)": "The LORD (I AM)",
+"Day": 1,
+"Scripture Reference": "Exodus 3:14",
+"Key Phrase (BSB)": "God said to Moses, 'I AM WHO I AM.'"
+},
+{
+"Week": 1,
+"Name (Hebrew)": "Yahweh",
+"Name (English)": "The LORD (I AM)",
+"Day": 2,
+"Scripture Reference": "Exodus 6:2-3",
+"Key Phrase (BSB)": "God spoke to Moses: 'I am the LORD. I appeared to Abraham, to Isaac, and to Jacob as God Almighty.'"
+},
+{
+"Week": 1,
+"Name (Hebrew)": "Yahweh",
+"Name (English)": "The LORD (I AM)",
+"Day": 3,
+"Scripture Reference": "Psalm 102:12",
+"Key Phrase (BSB)": "But You, O LORD, sit enthroned forever; Your renown endures through all generations."
+},
+{
+"Week": 1,
+"Name (Hebrew)": "Yahweh",
+"Name (English)": "The LORD (I AM)",
+"Day": 4,
+"Scripture Reference": "Isaiah 42:8",
+"Key Phrase (BSB)": "I am the LORD; that is My name! I will not give My glory to another."
+},
+{
+"Week": 1,
+"Name (Hebrew)": "Yahweh",
+"Name (English)": "The LORD (I AM)",
+"Day": 5,
+"Scripture Reference": "Malachi 3:6",
+"Key Phrase (BSB)": "For I, the LORD, do not change; therefore you, O sons of Jacob, have not been consumed."
+},
+{
+"Week": 1,
+"Name (Hebrew)": "Yahweh",
+"Name (English)": "The LORD (I AM)",
+"Day": 6,
+"Scripture Reference": "John 8:58",
+"Key Phrase (BSB)": "Truly, truly, I tell you, before Abraham was born, I am!"
+},
+{
+"Week": 1,
+"Name (Hebrew)": "Yahweh",
+"Name (English)": "The LORD (I AM)",
+"Day": 7,
+"Scripture Reference": "Hebrews 13:8",
+"Key Phrase (BSB)": "Jesus Christ is the same yesterday and today and forever."
+},
+{
+"Week": 2,
+"Name (Hebrew)": "Elohim",
+"Name (English)": "God, Creator, Mighty One",
+"Day": 1,
+"Scripture Reference": "Genesis 1:1",
+"Key Phrase (BSB)": "In the beginning God created the heavens and the earth."
+},
+{
+"Week": 2,
+"Name (Hebrew)": "Elohim",
+"Name (English)": "God, Creator, Mighty One",
+"Day": 2,
+"Scripture Reference": "Genesis 1:26-27",
+"Key Phrase (BSB)": "Then God said, 'Let Us make man in Our image, after Our likeness.'"
+},
+{
+"Week": 2,
+"Name (Hebrew)": "Elohim",
+"Name (English)": "God, Creator, Mighty One",
+"Day": 3,
+"Scripture Reference": "Psalm 19:1",
+"Key Phrase (BSB)": "The heavens declare the glory of God; the skies proclaim the work of His hands."
+},
+{
+"Week": 2,
+"Name (Hebrew)": "Elohim",
+"Name (English)": "God, Creator, Mighty One",
+"Day": 4,
+"Scripture Reference": "Isaiah 40:28",
+"Key Phrase (BSB)": "The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary."
+},
+{
+"Week": 2,
+"Name (Hebrew)": "Elohim",
+"Name (English)": "God, Creator, Mighty One",
+"Day": 5,
+"Scripture Reference": "Jeremiah 32:17",
+"Key Phrase (BSB)": "Ah, Lord GOD! You have made the heavens and earth by Your great power. Nothing is too difficult for You!"
+},
+{
+"Week": 2,
+"Name (Hebrew)": "Elohim",
+"Name (English)": "God, Creator, Mighty One",
+"Day": 6,
+"Scripture Reference": "Nehemiah 9:6",
+"Key Phrase (BSB)": "You alone are the LORD. You made the heavens and all their host, the earth and all that is on it."
+},
+{
+"Week": 2,
+"Name (Hebrew)": "Elohim",
+"Name (English)": "God, Creator, Mighty One",
+"Day": 7,
+"Scripture Reference": "John 1:3",
+"Key Phrase (BSB)": "Through Him all things were made, and without Him nothing was made that has been made."
+},
+{
+"Week": 3,
+"Name (Hebrew)": "Adonai",
+"Name (English)": "Lord, Master",
+"Day": 1,
+"Scripture Reference": "Genesis 15:2",
+"Key Phrase (BSB)": "Abram said, 'O Lord GOD, what can You give me, since I remain childless?'"
+},
+{
+"Week": 3,
+"Name (Hebrew)": "Adonai",
+"Name (English)": "Lord, Master",
+"Day": 2,
+"Scripture Reference": "Deuteronomy 10:17",
+"Key Phrase (BSB)": "For the LORD your God is God of gods and Lord of lords, the great, mighty, and awesome God."
+},
+{
+"Week": 3,
+"Name (Hebrew)": "Adonai",
+"Name (English)": "Lord, Master",
+"Day": 3,
+"Scripture Reference": "Psalm 97:5",
+"Key Phrase (BSB)": "The mountains melt like wax at the presence of the LORD, at the presence of the Lord of all the earth."
+},
+{
+"Week": 3,
+"Name (Hebrew)": "Adonai",
+"Name (English)": "Lord, Master",
+"Day": 4,
+"Scripture Reference": "Isaiah 6:1",
+"Key Phrase (BSB)": "I saw the Lord seated on a high and lofty throne, and the train of His robe filled the temple."
+},
+{
+"Week": 3,
+"Name (Hebrew)": "Adonai",
+"Name (English)": "Lord, Master",
+"Day": 5,
+"Scripture Reference": "Jeremiah 1:6",
+"Key Phrase (BSB)": "'Ah, Lord GOD,' I said, 'I do not know how to speak, for I am only a youth.'"
+},
+{
+"Week": 3,
+"Name (Hebrew)": "Adonai",
+"Name (English)": "Lord, Master",
+"Day": 6,
+"Scripture Reference": "Malachi 1:6",
+"Key Phrase (BSB)": "A son honors his father, and a servant his master. If I am a father, where is My honor? If I am a master, where is My fear?"
+},
+{
+"Week": 3,
+"Name (Hebrew)": "Adonai",
+"Name (English)": "Lord, Master",
+"Day": 7,
+"Scripture Reference": "Luke 2:29",
+"Key Phrase (BSB)": "Sovereign Lord, as You have promised, You now dismiss Your servant in peace."
+},
+{
+"Week": 4,
+"Name (Hebrew)": "El Shaddai",
+"Name (English)": "God Almighty, All-Sufficient One",
+"Day": 1,
+"Scripture Reference": "Genesis 17:1",
+"Key Phrase (BSB)": "I am God Almighty. Walk before Me and be blameless."
+},
+{
+"Week": 4,
+"Name (Hebrew)": "El Shaddai",
+"Name (English)": "God Almighty, All-Sufficient One",
+"Day": 2,
+"Scripture Reference": "Genesis 35:11",
+"Key Phrase (BSB)": "I am God Almighty. Be fruitful and multiply."
+},
+{
+"Week": 4,
+"Name (Hebrew)": "El Shaddai",
+"Name (English)": "God Almighty, All-Sufficient One",
+"Day": 3,
+"Scripture Reference": "Exodus 6:3",
+"Key Phrase (BSB)": "I appeared to Abraham, to Isaac, and to Jacob as God Almighty."
+},
+{
+"Week": 4,
+"Name (Hebrew)": "El Shaddai",
+"Name (English)": "God Almighty, All-Sufficient One",
+"Day": 4,
+"Scripture Reference": "Psalm 91:1",
+"Key Phrase (BSB)": "He who dwells in the shelter of the Most High will rest in the shadow of the Almighty."
+},
+{
+"Week": 4,
+"Name (Hebrew)": "El Shaddai",
+"Name (English)": "God Almighty, All-Sufficient One",
+"Day": 5,
+"Scripture Reference": "Ezekiel 1:24",
+"Key Phrase (BSB)": "Like the voice of the Almighty, like the tumult of an army."
+},
+{
+"Week": 4,
+"Name (Hebrew)": "El Shaddai",
+"Name (English)": "God Almighty, All-Sufficient One",
+"Day": 6,
+"Scripture Reference": "Joel 1:15",
+"Key Phrase (BSB)": "For the day of the LORD is near; it will come as destruction from the Almighty."
+},
+{
+"Week": 4,
+"Name (Hebrew)": "El Shaddai",
+"Name (English)": "God Almighty, All-Sufficient One",
+"Day": 7,
+"Scripture Reference": "Revelation 1:8",
+"Key Phrase (BSB)": "I am the Alpha and the Omega, says the Lord God, who is and was and is to come, the Almighty."
+},
+{
+"Week": 5,
+"Name (Hebrew)": "El Elyon",
+"Name (English)": "God Most High",
+"Day": 1,
+"Scripture Reference": "Genesis 14:18-20",
+"Key Phrase (BSB)": "Blessed be Abram by God Most High, Creator of heaven and earth."
+},
+{
+"Week": 5,
+"Name (Hebrew)": "El Elyon",
+"Name (English)": "God Most High",
+"Day": 2,
+"Scripture Reference": "Numbers 24:16",
+"Key Phrase (BSB)": "The oracle of one who hears the words of God, who has knowledge from the Most High."
+},
+{
+"Week": 5,
+"Name (Hebrew)": "El Elyon",
+"Name (English)": "God Most High",
+"Day": 3,
+"Scripture Reference": "Psalm 7:17",
+"Key Phrase (BSB)": "I will give thanks to the LORD for His righteousness and sing praise to the name of the LORD Most High."
+},
+{
+"Week": 5,
+"Name (Hebrew)": "El Elyon",
+"Name (English)": "God Most High",
+"Day": 4,
+"Scripture Reference": "Psalm 97:9",
+"Key Phrase (BSB)": "For You, O LORD, are Most High over all the earth; You are exalted far above all gods."
+},
+{
+"Week": 5,
+"Name (Hebrew)": "El Elyon",
+"Name (English)": "God Most High",
+"Day": 5,
+"Scripture Reference": "Daniel 4:34",
+"Key Phrase (BSB)": "I praised the Most High and honored and glorified Him who lives forever. His dominion is everlasting."
+},
+{
+"Week": 5,
+"Name (Hebrew)": "El Elyon",
+"Name (English)": "God Most High",
+"Day": 6,
+"Scripture Reference": "Luke 1:32",
+"Key Phrase (BSB)": "He will be great and will be called the Son of the Most High."
+},
+{
+"Week": 5,
+"Name (Hebrew)": "El Elyon",
+"Name (English)": "God Most High",
+"Day": 7,
+"Scripture Reference": "Acts 7:48",
+"Key Phrase (BSB)": "However, the Most High does not dwell in houses made by human hands."
+},
+{
+"Week": 6,
+"Name (Hebrew)": "Jehovah-Jireh",
+"Name (English)": "The LORD Will Provide",
+"Day": 1,
+"Scripture Reference": "Genesis 22:14",
+"Key Phrase (BSB)": "Abraham named that place 'The LORD Will Provide.' So to this day it is said, 'On the mountain of the LORD it will be provided.'"
+},
+{
+"Week": 6,
+"Name (Hebrew)": "Jehovah-Jireh",
+"Name (English)": "The LORD Will Provide",
+"Day": 2,
+"Scripture Reference": "Psalm 23:1",
+"Key Phrase (BSB)": "The LORD is my shepherd; I shall not want."
+},
+{
+"Week": 6,
+"Name (Hebrew)": "Jehovah-Jireh",
+"Name (English)": "The LORD Will Provide",
+"Day": 3,
+"Scripture Reference": "Philippians 4:19",
+"Key Phrase (BSB)": "And my God will supply all your needs according to His glorious riches in Christ Jesus."
+},
+{
+"Week": 6,
+"Name (Hebrew)": "Jehovah-Jireh",
+"Name (English)": "The LORD Will Provide",
+"Day": 4,
+"Scripture Reference": "Matthew 6:26",
+"Key Phrase (BSB)": "Look at the birds of the air: They do not sow or reap or gather into barns — and yet your heavenly Father feeds them."
+},
+{
+"Week": 6,
+"Name (Hebrew)": "Jehovah-Jireh",
+"Name (English)": "The LORD Will Provide",
+"Day": 5,
+"Scripture Reference": "Luke 12:24",
+"Key Phrase (BSB)": "Consider the ravens: They do not sow or reap; they have no storehouse or barn — yet God feeds them."
+},
+{
+"Week": 6,
+"Name (Hebrew)": "Jehovah-Jireh",
+"Name (English)": "The LORD Will Provide",
+"Day": 6,
+"Scripture Reference": "2 Corinthians 9:8",
+"Key Phrase (BSB)": "And God is able to make all grace abound to you, so that in all things, at all times, having all that you need, you will abound in every good work."
+},
+{
+"Week": 6,
+"Name (Hebrew)": "Jehovah-Jireh",
+"Name (English)": "The LORD Will Provide",
+"Day": 7,
+"Scripture Reference": "Hebrews 4:16",
+"Key Phrase (BSB)": "Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need."
+},
+{
+"Week": 7,
+"Name (Hebrew)": "Jehovah-Rapha",
+"Name (English)": "The LORD Who Heals",
+"Day": 1,
+"Scripture Reference": "Exodus 15:26",
+"Key Phrase (BSB)": "For I am the LORD who heals you."
+},
+{
+"Week": 7,
+"Name (Hebrew)": "Jehovah-Rapha",
+"Name (English)": "The LORD Who Heals",
+"Day": 2,
+"Scripture Reference": "Psalm 103:3",
+"Key Phrase (BSB)": "He forgives all your iniquities and heals all your diseases."
+},
+{
+"Week": 7,
+"Name (Hebrew)": "Jehovah-Rapha",
+"Name (English)": "The LORD Who Heals",
+"Day": 3,
+"Scripture Reference": "Isaiah 53:5",
+"Key Phrase (BSB)": "By His stripes we are healed."
+},
+{
+"Week": 7,
+"Name (Hebrew)": "Jehovah-Rapha",
+"Name (English)": "The LORD Who Heals",
+"Day": 4,
+"Scripture Reference": "Jeremiah 17:14",
+"Key Phrase (BSB)": "Heal me, O LORD, and I will be healed; save me, and I will be saved, for You are my praise."
+},
+{
+"Week": 7,
+"Name (Hebrew)": "Jehovah-Rapha",
+"Name (English)": "The LORD Who Heals",
+"Day": 5,
+"Scripture Reference": "Matthew 8:16-17",
+"Key Phrase (BSB)": "He drove out the spirits with a word and healed all the sick, to fulfill what was spoken through the prophet Isaiah."
+},
+{
+"Week": 7,
+"Name (Hebrew)": "Jehovah-Rapha",
+"Name (English)": "The LORD Who Heals",
+"Day": 6,
+"Scripture Reference": "Luke 4:18",
+"Key Phrase (BSB)": "The Spirit of the Lord is on Me, because He has anointed Me to preach good news to the poor. He has sent Me to proclaim liberty to the captives."
+},
+{
+"Week": 7,
+"Name (Hebrew)": "Jehovah-Rapha",
+"Name (English)": "The LORD Who Heals",
+"Day": 7,
+"Scripture Reference": "James 5:15-16",
+"Key Phrase (BSB)": "The prayer offered in faith will restore the one who is sick. Therefore confess your sins to one another and pray for one another, so that you may be healed."
+},
+{
+"Week": 8,
+"Name (Hebrew)": "Jehovah-Nissi",
+"Name (English)": "The LORD Is My Banner",
+"Day": 1,
+"Scripture Reference": "Exodus 17:15",
+"Key Phrase (BSB)": "Moses built an altar and called it 'The LORD Is My Banner.'"
+},
+{
+"Week": 8,
+"Name (Hebrew)": "Jehovah-Nissi",
+"Name (English)": "The LORD Is My Banner",
+"Day": 2,
+"Scripture Reference": "Psalm 20:5",
+"Key Phrase (BSB)": "We will shout for joy at your victory and raise a banner in the name of our God."
+},
+{
+"Week": 8,
+"Name (Hebrew)": "Jehovah-Nissi",
+"Name (English)": "The LORD Is My Banner",
+"Day": 3,
+"Scripture Reference": "Psalm 60:4",
+"Key Phrase (BSB)": "You have given a banner to those who fear You, that it may be displayed because of the truth."
+},
+{
+"Week": 8,
+"Name (Hebrew)": "Jehovah-Nissi",
+"Name (English)": "The LORD Is My Banner",
+"Day": 4,
+"Scripture Reference": "Isaiah 11:10",
+"Key Phrase (BSB)": "In that day the Root of Jesse will stand as a banner for the peoples. The nations will seek Him, and His place of rest will be glorious."
+},
+{
+"Week": 8,
+"Name (Hebrew)": "Jehovah-Nissi",
+"Name (English)": "The LORD Is My Banner",
+"Day": 5,
+"Scripture Reference": "Jeremiah 4:6",
+"Key Phrase (BSB)": "Raise a signal flag toward Zion! Seek refuge, do not delay!"
+},
+{
+"Week": 8,
+"Name (Hebrew)": "Jehovah-Nissi",
+"Name (English)": "The LORD Is My Banner",
+"Day": 6,
+"Scripture Reference": "Romans 8:37",
+"Key Phrase (BSB)": "In all these things we are more than conquerors through Him who loved us."
+},
+{
+"Week": 8,
+"Name (Hebrew)": "Jehovah-Nissi",
+"Name (English)": "The LORD Is My Banner",
+"Day": 7,
+"Scripture Reference": "1 Corinthians 15:57",
+"Key Phrase (BSB)": "But thanks be to God, who gives us the victory through our Lord Jesus Christ!"
+},
+{
+"Week": 9,
+"Name (Hebrew)": "Jehovah-Shalom",
+"Name (English)": "The LORD Is Peace",
+"Day": 1,
+"Scripture Reference": "Judges 6:24",
+"Key Phrase (BSB)": "Gideon built an altar to the LORD there and called it 'The LORD Is Peace.'"
+},
+{
+"Week": 9,
+"Name (Hebrew)": "Jehovah-Shalom",
+"Name (English)": "The LORD Is Peace",
+"Day": 2,
+"Scripture Reference": "Isaiah 9:6",
+"Key Phrase (BSB)": "And He will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."
+},
+{
+"Week": 9,
+"Name (Hebrew)": "Jehovah-Shalom",
+"Name (English)": "The LORD Is Peace",
+"Day": 3,
+"Scripture Reference": "Ephesians 2:14",
+"Key Phrase (BSB)": "For He Himself is our peace, who has made the two one and has torn down the dividing wall of hostility."
+},
+{
+"Week": 9,
+"Name (Hebrew)": "Jehovah-Shalom",
+"Name (English)": "The LORD Is Peace",
+"Day": 4,
+"Scripture Reference": "Colossians 3:15",
+"Key Phrase (BSB)": "Let the peace of Christ rule in your hearts, since as members of one body you were called to peace."
+},
+{
+"Week": 9,
+"Name (Hebrew)": "Jehovah-Shalom",
+"Name (English)": "The LORD Is Peace",
+"Day": 5,
+"Scripture Reference": "Philippians 4:7",
+"Key Phrase (BSB)": "And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus."
+},
+{
+"Week": 9,
+"Name (Hebrew)": "Jehovah-Shalom",
+"Name (English)": "The LORD Is Peace",
+"Day": 6,
+"Scripture Reference": "John 14:27",
+"Key Phrase (BSB)": "Peace I leave with you; My peace I give to you. I do not give as the world gives. Do not let your hearts be troubled; do not be afraid."
+},
+{
+"Week": 9,
+"Name (Hebrew)": "Jehovah-Shalom",
+"Name (English)": "The LORD Is Peace",
+"Day": 7,
+"Scripture Reference": "Romans 5:1",
+"Key Phrase (BSB)": "Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ."
+},
+{
+"Week": 10,
+"Name (Hebrew)": "Jehovah-Raah",
+"Name (English)": "The LORD My Shepherd",
+"Day": 1,
+"Scripture Reference": "Psalm 23:1",
+"Key Phrase (BSB)": "The LORD is my shepherd; I shall not want."
+},
+{
+"Week": 10,
+"Name (Hebrew)": "Jehovah-Raah",
+"Name (English)": "The LORD My Shepherd",
+"Day": 2,
+"Scripture Reference": "Isaiah 40:11",
+"Key Phrase (BSB)": "He tends His flock like a shepherd; He gathers the lambs in His arms and carries them close to His heart."
+},
+{
+"Week": 10,
+"Name (Hebrew)": "Jehovah-Raah",
+"Name (English)": "The LORD My Shepherd",
+"Day": 3,
+"Scripture Reference": "Ezekiel 34:11-12",
+"Key Phrase (BSB)": "For this is what the Lord GOD says: I Myself will search for My sheep and look for them."
+},
+{
+"Week": 10,
+"Name (Hebrew)": "Jehovah-Raah",
+"Name (English)": "The LORD My Shepherd",
+"Day": 4,
+"Scripture Reference": "John 10:11",
+"Key Phrase (BSB)": "I am the good shepherd. The good shepherd lays down His life for the sheep."
+},
+{
+"Week": 10,
+"Name (Hebrew)": "Jehovah-Raah",
+"Name (English)": "The LORD My Shepherd",
+"Day": 5,
+"Scripture Reference": "John 10:14",
+"Key Phrase (BSB)": "I am the good shepherd. I know My sheep, and My sheep know Me."
+},
+{
+"Week": 10,
+"Name (Hebrew)": "Jehovah-Raah",
+"Name (English)": "The LORD My Shepherd",
+"Day": 6,
+"Scripture Reference": "Hebrews 13:20",
+"Key Phrase (BSB)": "Now may the God of peace, who brought back from the dead our Lord Jesus, that great Shepherd of the sheep."
+},
+{
+"Week": 10,
+"Name (Hebrew)": "Jehovah-Raah",
+"Name (English)": "The LORD My Shepherd",
+"Day": 7,
+"Scripture Reference": "1 Peter 2:25",
+"Key Phrase (BSB)": "For you were like sheep going astray, but now you have returned to the Shepherd and Overseer of your souls."
+},
+{
+"Week": 11,
+"Name (Hebrew)": "Jehovah-Tsidkenu",
+"Name (English)": "The LORD Our Righteousness",
+"Day": 1,
+"Scripture Reference": "Jeremiah 23:6",
+"Key Phrase (BSB)": "He will be called: The LORD Our Righteousness."
+},
+{
+"Week": 11,
+"Name (Hebrew)": "Jehovah-Tsidkenu",
+"Name (English)": "The LORD Our Righteousness",
+"Day": 2,
+"Scripture Reference": "Jeremiah 33:16",
+"Key Phrase (BSB)": "And this is the name by which she will be called: The LORD Our Righteousness."
+},
+{
+"Week": 11,
+"Name (Hebrew)": "Jehovah-Tsidkenu",
+"Name (English)": "The LORD Our Righteousness",
+"Day": 3,
+"Scripture Reference": "Romans 3:21-22",
+"Key Phrase (BSB)": "But now, apart from the law, the righteousness of God has been revealed, through faith in Jesus Christ to all who believe."
+},
+{
+"Week": 11,
+"Name (Hebrew)": "Jehovah-Tsidkenu",
+"Name (English)": "The LORD Our Righteousness",
+"Day": 4,
+"Scripture Reference": "1 Corinthians 1:30",
+"Key Phrase (BSB)": "Christ Jesus, who became to us wisdom from God, and righteousness and sanctification and redemption."
+},
+{
+"Week": 11,
+"Name (Hebrew)": "Jehovah-Tsidkenu",
+"Name (English)": "The LORD Our Righteousness",
+"Day": 5,
+"Scripture Reference": "2 Corinthians 5:21",
+"Key Phrase (BSB)": "God made Him who knew no sin to be sin on our behalf, so that in Him we might become the righteousness of God."
+},
+{
+"Week": 11,
+"Name (Hebrew)": "Jehovah-Tsidkenu",
+"Name (English)": "The LORD Our Righteousness",
+"Day": 6,
+"Scripture Reference": "Philippians 3:9",
+"Key Phrase (BSB)": "Not having a righteousness of my own from the law, but that which comes through faith in Christ."
+},
+{
+"Week": 11,
+"Name (Hebrew)": "Jehovah-Tsidkenu",
+"Name (English)": "The LORD Our Righteousness",
+"Day": 7,
+"Scripture Reference": "Romans 10:4",
+"Key Phrase (BSB)": "For Christ is the end of the law, bringing righteousness to everyone who believes."
+},
+{
+"Week": 12,
+"Name (Hebrew)": "Jehovah-Shammah",
+"Name (English)": "The LORD Is There",
+"Day": 1,
+"Scripture Reference": "Ezekiel 48:35",
+"Key Phrase (BSB)": "And the name of the city from that day on will be: THE LORD IS THERE."
+},
+{
+"Week": 12,
+"Name (Hebrew)": "Jehovah-Shammah",
+"Name (English)": "The LORD Is There",
+"Day": 2,
+"Scripture Reference": "Psalm 46:5",
+"Key Phrase (BSB)": "God is within her; she will not be moved. God will help her at the break of day."
+},
+{
+"Week": 12,
+"Name (Hebrew)": "Jehovah-Shammah",
+"Name (English)": "The LORD Is There",
+"Day": 3,
+"Scripture Reference": "Matthew 28:20",
+"Key Phrase (BSB)": "And surely I am with you always, even to the end of the age."
+},
+{
+"Week": 12,
+"Name (Hebrew)": "Jehovah-Shammah",
+"Name (English)": "The LORD Is There",
+"Day": 4,
+"Scripture Reference": "Revelation 21:3",
+"Key Phrase (BSB)": "Now the dwelling of God is with man, and He will dwell with them. They will be His people, and God Himself will be with them."
+},
+{
+"Week": 12,
+"Name (Hebrew)": "Jehovah-Shammah",
+"Name (English)": "The LORD Is There",
+"Day": 5,
+"Scripture Reference": "Zephaniah 3:17",
+"Key Phrase (BSB)": "The LORD your God is among you, a mighty one who saves. He will rejoice over you with gladness; He will quiet you with His love."
+},
+{
+"Week": 12,
+"Name (Hebrew)": "Jehovah-Shammah",
+"Name (English)": "The LORD Is There",
+"Day": 6,
+"Scripture Reference": "John 14:16-17",
+"Key Phrase (BSB)": "I will ask the Father, and He will give you another Advocate to be with you forever — the Spirit of truth."
+},
+{
+"Week": 12,
+"Name (Hebrew)": "Jehovah-Shammah",
+"Name (English)": "The LORD Is There",
+"Day": 7,
+"Scripture Reference": "2 Corinthians 6:16",
+"Key Phrase (BSB)": "For we are the temple of the living God. As God has said: 'I will dwell among them and walk among them.'"
+},
+{
+"Week": 13,
+"Name (Hebrew)": "Alpha and Omega",
+"Name (English)": "The Beginning and the End",
+"Day": 1,
+"Scripture Reference": "Revelation 1:8",
+"Key Phrase (BSB)": "I am the Alpha and the Omega, who is and was and is to come, the Almighty."
+},
+{
+"Week": 13,
+"Name (Hebrew)": "Alpha and Omega",
+"Name (English)": "The Beginning and the End",
+"Day": 2,
+"Scripture Reference": "Revelation 21:6",
+"Key Phrase (BSB)": "I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give freely from the spring of the water of life."
+},
+{
+"Week": 13,
+"Name (Hebrew)": "Alpha and Omega",
+"Name (English)": "The Beginning and the End",
+"Day": 3,
+"Scripture Reference": "Revelation 22:13",
+"Key Phrase (BSB)": "I am the Alpha and the Omega, the First and the Last, the Beginning and the End."
+},
+{
+"Week": 13,
+"Name (Hebrew)": "Alpha and Omega",
+"Name (English)": "The Beginning and the End",
+"Day": 4,
+"Scripture Reference": "Isaiah 41:4",
+"Key Phrase (BSB)": "Who has performed and accomplished it, calling forth the generations from the beginning? I, the LORD — the first and with the last — I am He."
+},
+{
+"Week": 13,
+"Name (Hebrew)": "Alpha and Omega",
+"Name (English)": "The Beginning and the End",
+"Day": 5,
+"Scripture Reference": "Isaiah 44:6",
+"Key Phrase (BSB)": "I am the first and I am the last, and there is no God but Me."
+},
+{
+"Week": 13,
+"Name (Hebrew)": "Alpha and Omega",
+"Name (English)": "The Beginning and the End",
+"Day": 6,
+"Scripture Reference": "Isaiah 48:12",
+"Key Phrase (BSB)": "Listen to Me, O Jacob, and Israel, whom I have called: I am He; I am the first, and I am the last."
+},
+{
+"Week": 13,
+"Name (Hebrew)": "Alpha and Omega",
+"Name (English)": "The Beginning and the End",
+"Day": 7,
+"Scripture Reference": "Colossians 1:17",
+"Key Phrase (BSB)": "He is before all things, and in Him all things hold together."
+},
+{
+"Week": 14,
+"Name (Hebrew)": "Lion of Judah",
+"Name (English)": "Lion of the Tribe of Judah",
+"Day": 1,
+"Scripture Reference": "Revelation 5:5",
+"Key Phrase (BSB)": "See, the Lion of the tribe of Judah, the Root of David, has triumphed."
+},
+{
+"Week": 14,
+"Name (Hebrew)": "Lion of Judah",
+"Name (English)": "Lion of the Tribe of Judah",
+"Day": 2,
+"Scripture Reference": "Genesis 49:9-10",
+"Key Phrase (BSB)": "Judah is a young lion. The scepter will not depart from Judah until the coming of the One to whom it belongs."
+},
+{
+"Week": 14,
+"Name (Hebrew)": "Lion of Judah",
+"Name (English)": "Lion of the Tribe of Judah",
+"Day": 3,
+"Scripture Reference": "Hosea 11:10",
+"Key Phrase (BSB)": "They will follow the LORD; He will roar like a lion. When He roars, His children will come trembling from the west."
+},
+{
+"Week": 14,
+"Name (Hebrew)": "Lion of Judah",
+"Name (English)": "Lion of the Tribe of Judah",
+"Day": 4,
+"Scripture Reference": "Amos 3:8",
+"Key Phrase (BSB)": "The lion has roared — who will not fear? The Lord GOD has spoken — who will not prophesy?"
+},
+{
+"Week": 14,
+"Name (Hebrew)": "Lion of Judah",
+"Name (English)": "Lion of the Tribe of Judah",
+"Day": 5,
+"Scripture Reference": "Proverbs 28:1",
+"Key Phrase (BSB)": "The wicked flee when no one pursues, but the righteous are as bold as a lion."
+},
+{
+"Week": 14,
+"Name (Hebrew)": "Lion of Judah",
+"Name (English)": "Lion of the Tribe of Judah",
+"Day": 6,
+"Scripture Reference": "Hebrews 7:14",
+"Key Phrase (BSB)": "For it is clear that our Lord descended from Judah."
+},
+{
+"Week": 14,
+"Name (Hebrew)": "Lion of Judah",
+"Name (English)": "Lion of the Tribe of Judah",
+"Day": 7,
+"Scripture Reference": "Luke 1:32-33",
+"Key Phrase (BSB)": "He will be great and will be called the Son of the Most High. He will reign over the house of Jacob forever."
+},
+{
+"Week": 15,
+"Name (Hebrew)": "Lamb of God",
+"Name (English)": "Lamb of God",
+"Day": 1,
+"Scripture Reference": "John 1:29",
+"Key Phrase (BSB)": "Look, the Lamb of God, who takes away the sin of the world!"
+},
+{
+"Week": 15,
+"Name (Hebrew)": "Lamb of God",
+"Name (English)": "Lamb of God",
+"Day": 2,
+"Scripture Reference": "John 1:36",
+"Key Phrase (BSB)": "When he saw Jesus passing by, he said, 'Look, the Lamb of God!'"
+},
+{
+"Week": 15,
+"Name (Hebrew)": "Lamb of God",
+"Name (English)": "Lamb of God",
+"Day": 3,
+"Scripture Reference": "Revelation 5:6",
+"Key Phrase (BSB)": "Then I saw a Lamb, looking as if it had been slain, standing in the center of the throne."
+},
+{
+"Week": 15,
+"Name (Hebrew)": "Lamb of God",
+"Name (English)": "Lamb of God",
+"Day": 4,
+"Scripture Reference": "Revelation 7:17",
+"Key Phrase (BSB)": "For the Lamb in the center of the throne will be their shepherd. He will lead them to springs of living water."
+},
+{
+"Week": 15,
+"Name (Hebrew)": "Lamb of God",
+"Name (English)": "Lamb of God",
+"Day": 5,
+"Scripture Reference": "1 Peter 1:18-19",
+"Key Phrase (BSB)": "You were redeemed not with perishable things like silver or gold, but with the precious blood of Christ, a lamb without blemish or defect."
+},
+{
+"Week": 15,
+"Name (Hebrew)": "Lamb of God",
+"Name (English)": "Lamb of God",
+"Day": 6,
+"Scripture Reference": "Isaiah 53:7",
+"Key Phrase (BSB)": "He was oppressed and afflicted, yet He did not open His mouth. He was led like a lamb to the slaughter."
+},
+{
+"Week": 15,
+"Name (Hebrew)": "Lamb of God",
+"Name (English)": "Lamb of God",
+"Day": 7,
+"Scripture Reference": "Acts 8:32-35",
+"Key Phrase (BSB)": "Like a sheep He was led to the slaughter. Then Philip began with that very Scripture and told him the good news about Jesus."
+},
+{
+"Week": 16,
+"Name (Hebrew)": "Holy One of Israel",
+"Name (English)": "Holy One of Israel",
+"Day": 1,
+"Scripture Reference": "Isaiah 1:4",
+"Key Phrase (BSB)": "They have forsaken the LORD; they have despised the Holy One of Israel."
+},
+{
+"Week": 16,
+"Name (Hebrew)": "Holy One of Israel",
+"Name (English)": "Holy One of Israel",
+"Day": 2,
+"Scripture Reference": "Isaiah 5:16",
+"Key Phrase (BSB)": "But the LORD of Hosts will be exalted by His justice, and the Holy God will show Himself holy by His righteousness."
+},
+{
+"Week": 16,
+"Name (Hebrew)": "Holy One of Israel",
+"Name (English)": "Holy One of Israel",
+"Day": 3,
+"Scripture Reference": "Isaiah 43:3",
+"Key Phrase (BSB)": "For I am the LORD your God, the Holy One of Israel, your Savior."
+},
+{
+"Week": 16,
+"Name (Hebrew)": "Holy One of Israel",
+"Name (English)": "Holy One of Israel",
+"Day": 4,
+"Scripture Reference": "Psalm 71:22",
+"Key Phrase (BSB)": "I will praise You with the harp for Your faithfulness, O my God; I will sing praises to You with the lyre, O Holy One of Israel."
+},
+{
+"Week": 16,
+"Name (Hebrew)": "Holy One of Israel",
+"Name (English)": "Holy One of Israel",
+"Day": 5,
+"Scripture Reference": "Psalm 89:18",
+"Key Phrase (BSB)": "For our shield belongs to the LORD, our king to the Holy One of Israel."
+},
+{
+"Week": 16,
+"Name (Hebrew)": "Holy One of Israel",
+"Name (English)": "Holy One of Israel",
+"Day": 6,
+"Scripture Reference": "Jeremiah 50:29",
+"Key Phrase (BSB)": "For she has acted proudly against the LORD, against the Holy One of Israel."
+},
+{
+"Week": 16,
+"Name (Hebrew)": "Holy One of Israel",
+"Name (English)": "Holy One of Israel",
+"Day": 7,
+"Scripture Reference": "Hosea 11:9",
+"Key Phrase (BSB)": "For I am God and not man, the Holy One among you."
+},
+{
+"Week": 17,
+"Name (Hebrew)": "Ancient of Days",
+"Name (English)": "Ancient of Days",
+"Day": 1,
+"Scripture Reference": "Daniel 7:9",
+"Key Phrase (BSB)": "Thrones were set in place, and the Ancient of Days took His seat. His clothing was white as snow, and the hair of His head like pure wool."
+},
+{
+"Week": 17,
+"Name (Hebrew)": "Ancient of Days",
+"Name (English)": "Ancient of Days",
+"Day": 2,
+"Scripture Reference": "Daniel 7:13",
+"Key Phrase (BSB)": "One like a son of man was coming with the clouds of heaven. He approached the Ancient of Days and was led into His presence."
+},
+{
+"Week": 17,
+"Name (Hebrew)": "Ancient of Days",
+"Name (English)": "Ancient of Days",
+"Day": 3,
+"Scripture Reference": "Daniel 7:22",
+"Key Phrase (BSB)": "Until the Ancient of Days came and pronounced judgment in favor of the saints of the Most High."
+},
+{
+"Week": 17,
+"Name (Hebrew)": "Ancient of Days",
+"Name (English)": "Ancient of Days",
+"Day": 4,
+"Scripture Reference": "Psalm 90:2",
+"Key Phrase (BSB)": "From everlasting to everlasting, You are God."
+},
+{
+"Week": 17,
+"Name (Hebrew)": "Ancient of Days",
+"Name (English)": "Ancient of Days",
+"Day": 5,
+"Scripture Reference": "Psalm 102:24-27",
+"Key Phrase (BSB)": "Your years go on through all generations. They will perish, but You will remain; they will all wear out like a garment. But You remain the same, and Your years will never end."
+},
+{
+"Week": 17,
+"Name (Hebrew)": "Ancient of Days",
+"Name (English)": "Ancient of Days",
+"Day": 6,
+"Scripture Reference": "Isaiah 43:13",
+"Key Phrase (BSB)": "Even from eternity I am He, and no one can deliver out of My hand. When I act, who can reverse it?"
+},
+{
+"Week": 17,
+"Name (Hebrew)": "Ancient of Days",
+"Name (English)": "Ancient of Days",
+"Day": 7,
+"Scripture Reference": "Revelation 4:8",
+"Key Phrase (BSB)": "Holy, Holy, Holy is the Lord God Almighty, who was and is and is to come!"
+},
+{
+"Week": 18,
+"Name (Hebrew)": "Judge",
+"Name (English)": "Judge",
+"Day": 1,
+"Scripture Reference": "Genesis 18:25",
+"Key Phrase (BSB)": "Will not the Judge of all the earth do what is just?"
+},
+{
+"Week": 18,
+"Name (Hebrew)": "Judge",
+"Name (English)": "Judge",
+"Day": 2,
+"Scripture Reference": "Psalm 7:11",
+"Key Phrase (BSB)": "God is a righteous judge, and a God who feels indignation every day."
+},
+{
+"Week": 18,
+"Name (Hebrew)": "Judge",
+"Name (English)": "Judge",
+"Day": 3,
+"Scripture Reference": "Psalm 50:6",
+"Key Phrase (BSB)": "And the heavens proclaim His righteousness, for God Himself is judge."
+},
+{
+"Week": 18,
+"Name (Hebrew)": "Judge",
+"Name (English)": "Judge",
+"Day": 4,
+"Scripture Reference": "Isaiah 33:22",
+"Key Phrase (BSB)": "For the LORD is our judge, the LORD is our lawgiver, the LORD is our king; He will save us."
+},
+{
+"Week": 18,
+"Name (Hebrew)": "Judge",
+"Name (English)": "Judge",
+"Day": 5,
+"Scripture Reference": "Acts 17:31",
+"Key Phrase (BSB)": "He has set a day when He will judge the world with justice by the man He has appointed."
+},
+{
+"Week": 18,
+"Name (Hebrew)": "Judge",
+"Name (English)": "Judge",
+"Day": 6,
+"Scripture Reference": "Hebrews 12:23",
+"Key Phrase (BSB)": "To God the judge of all men, to the spirits of the righteous made perfect."
+},
+{
+"Week": 18,
+"Name (Hebrew)": "Judge",
+"Name (English)": "Judge",
+"Day": 7,
+"Scripture Reference": "Revelation 20:11-15",
+"Key Phrase (BSB)": "Then I saw a great white throne and Him who sat on it. And the dead were judged according to their deeds."
+},
+{
+"Week": 19,
+"Name (Hebrew)": "Righteous",
+"Name (English)": "Righteous",
+"Day": 1,
+"Scripture Reference": "Psalm 7:9",
+"Key Phrase (BSB)": "O righteous God who searches hearts and minds."
+},
+{
+"Week": 19,
+"Name (Hebrew)": "Righteous",
+"Name (English)": "Righteous",
+"Day": 2,
+"Scripture Reference": "Psalm 145:17",
+"Key Phrase (BSB)": "The LORD is righteous in all His ways and loving in all His deeds."
+},
+{
+"Week": 19,
+"Name (Hebrew)": "Righteous",
+"Name (English)": "Righteous",
+"Day": 3,
+"Scripture Reference": "Isaiah 45:21",
+"Key Phrase (BSB)": "There is no God but Me — a righteous God and Savior."
+},
+{
+"Week": 19,
+"Name (Hebrew)": "Righteous",
+"Name (English)": "Righteous",
+"Day": 4,
+"Scripture Reference": "Jeremiah 12:1",
+"Key Phrase (BSB)": "Righteous are You, O LORD, when I bring a case before You."
+},
+{
+"Week": 19,
+"Name (Hebrew)": "Righteous",
+"Name (English)": "Righteous",
+"Day": 5,
+"Scripture Reference": "John 17:25",
+"Key Phrase (BSB)": "Righteous Father, though the world does not know You, I know You."
+},
+{
+"Week": 19,
+"Name (Hebrew)": "Righteous",
+"Name (English)": "Righteous",
+"Day": 6,
+"Scripture Reference": "Romans 3:26",
+"Key Phrase (BSB)": "He did this to demonstrate His righteousness, so that He would be just and the justifier of the one who has faith in Jesus."
+},
+{
+"Week": 19,
+"Name (Hebrew)": "Righteous",
+"Name (English)": "Righteous",
+"Day": 7,
+"Scripture Reference": "1 John 2:1",
+"Key Phrase (BSB)": "If anyone does sin, we have an advocate before the Father — Jesus Christ, the Righteous One."
+},
+{
+"Week": 20,
+"Name (Hebrew)": "Just",
+"Name (English)": "Just",
+"Day": 1,
+"Scripture Reference": "Deuteronomy 32:4",
+"Key Phrase (BSB)": "He is the Rock, His works are perfect, and all His ways are just. A faithful God who does no wrong, upright and just is He."
+},
+{
+"Week": 20,
+"Name (Hebrew)": "Just",
+"Name (English)": "Just",
+"Day": 2,
+"Scripture Reference": "Psalm 19:9",
+"Key Phrase (BSB)": "The ordinances of the LORD are sure and altogether righteous."
+},
+{
+"Week": 20,
+"Name (Hebrew)": "Just",
+"Name (English)": "Just",
+"Day": 3,
+"Scripture Reference": "Psalm 119:137",
+"Key Phrase (BSB)": "Righteous are You, O LORD, and Your judgments are just."
+},
+{
+"Week": 20,
+"Name (Hebrew)": "Just",
+"Name (English)": "Just",
+"Day": 4,
+"Scripture Reference": "Romans 3:26",
+"Key Phrase (BSB)": "He did this to be just and the justifier of the one who has faith in Jesus."
+},
+{
+"Week": 20,
+"Name (Hebrew)": "Just",
+"Name (English)": "Just",
+"Day": 5,
+"Scripture Reference": "Romans 9:14",
+"Key Phrase (BSB)": "What then shall we say? Is God unjust? Certainly not!"
+},
+{
+"Week": 20,
+"Name (Hebrew)": "Just",
+"Name (English)": "Just",
+"Day": 6,
+"Scripture Reference": "Revelation 16:7",
+"Key Phrase (BSB)": "Yes, Lord God Almighty, true and just are Your judgments."
+},
+{
+"Week": 20,
+"Name (Hebrew)": "Just",
+"Name (English)": "Just",
+"Day": 7,
+"Scripture Reference": "2 Thessalonians 1:6",
+"Key Phrase (BSB)": "After all, it is only right for God to repay with affliction those who afflict you."
+},
+{
+"Week": 21,
+"Name (Hebrew)": "Holy",
+"Name (English)": "Holy",
+"Day": 1,
+"Scripture Reference": "Leviticus 11:44-45",
+"Key Phrase (BSB)": "Be holy, because I am holy."
+},
+{
+"Week": 21,
+"Name (Hebrew)": "Holy",
+"Name (English)": "Holy",
+"Day": 2,
+"Scripture Reference": "Isaiah 6:3",
+"Key Phrase (BSB)": "Holy, Holy, Holy is the LORD of Hosts; the whole earth is full of His glory!"
+},
+{
+"Week": 21,
+"Name (Hebrew)": "Holy",
+"Name (English)": "Holy",
+"Day": 3,
+"Scripture Reference": "1 Samuel 2:2",
+"Key Phrase (BSB)": "There is no one holy like the LORD; there is no one besides You; there is no Rock like our God."
+},
+{
+"Week": 21,
+"Name (Hebrew)": "Holy",
+"Name (English)": "Holy",
+"Day": 4,
+"Scripture Reference": "Revelation 4:8",
+"Key Phrase (BSB)": "Holy, Holy, Holy is the Lord God Almighty, who was and is and is to come!"
+},
+{
+"Week": 21,
+"Name (Hebrew)": "Holy",
+"Name (English)": "Holy",
+"Day": 5,
+"Scripture Reference": "Revelation 15:4",
+"Key Phrase (BSB)": "Who will not fear You, Lord, and glorify Your name? For You alone are holy."
+},
+{
+"Week": 21,
+"Name (Hebrew)": "Holy",
+"Name (English)": "Holy",
+"Day": 6,
+"Scripture Reference": "1 Peter 1:15-16",
+"Key Phrase (BSB)": "But just as He who called you is holy, so be holy in all you do. For it is written: Be holy, because I am holy."
+},
+{
+"Week": 21,
+"Name (Hebrew)": "Holy",
+"Name (English)": "Holy",
+"Day": 7,
+"Scripture Reference": "Hebrews 12:10",
+"Key Phrase (BSB)": "God disciplines us for our good, so that we may share in His holiness."
+},
+{
+"Week": 22,
+"Name (Hebrew)": "Omniscient",
+"Name (English)": "All-Knowing",
+"Day": 1,
+"Scripture Reference": "Psalm 139:1-6",
+"Key Phrase (BSB)": "O LORD, You have searched me and known me. You know when I sit and when I rise; You perceive my thoughts from afar."
+},
+{
+"Week": 22,
+"Name (Hebrew)": "Omniscient",
+"Name (English)": "All-Knowing",
+"Day": 2,
+"Scripture Reference": "1 Samuel 2:3",
+"Key Phrase (BSB)": "For the LORD is a God who knows, and by Him actions are weighed."
+},
+{
+"Week": 22,
+"Name (Hebrew)": "Omniscient",
+"Name (English)": "All-Knowing",
+"Day": 3,
+"Scripture Reference": "Job 37:16",
+"Key Phrase (BSB)": "Do you understand the balancing of the clouds, the wondrous works of Him who is perfect in knowledge?"
+},
+{
+"Week": 22,
+"Name (Hebrew)": "Omniscient",
+"Name (English)": "All-Knowing",
+"Day": 4,
+"Scripture Reference": "Proverbs 15:3",
+"Key Phrase (BSB)": "The eyes of the LORD are in every place, observing the evil and the good."
+},
+{
+"Week": 22,
+"Name (Hebrew)": "Omniscient",
+"Name (English)": "All-Knowing",
+"Day": 5,
+"Scripture Reference": "Isaiah 40:13-14",
+"Key Phrase (BSB)": "Who has directed the Spirit of the LORD, or who has counseled Him and instructed Him?"
+},
+{
+"Week": 22,
+"Name (Hebrew)": "Omniscient",
+"Name (English)": "All-Knowing",
+"Day": 6,
+"Scripture Reference": "Hebrews 4:13",
+"Key Phrase (BSB)": "Nothing in all creation is hidden from God's sight. Everything is uncovered and exposed before the eyes of Him to whom we must give account."
+},
+{
+"Week": 22,
+"Name (Hebrew)": "Omniscient",
+"Name (English)": "All-Knowing",
+"Day": 7,
+"Scripture Reference": "1 John 3:20",
+"Key Phrase (BSB)": "Even if our hearts condemn us, God is greater than our hearts, and He knows all things."
+},
+{
+"Week": 23,
+"Name (Hebrew)": "Omnipresent",
+"Name (English)": "Present Everywhere",
+"Day": 1,
+"Scripture Reference": "Psalm 139:7-12",
+"Key Phrase (BSB)": "Where can I go from Your Spirit? Where can I flee from Your presence? If I ascend to the heavens, You are there; if I make my bed in Sheol, You are there."
+},
+{
+"Week": 23,
+"Name (Hebrew)": "Omnipresent",
+"Name (English)": "Present Everywhere",
+"Day": 2,
+"Scripture Reference": "Jeremiah 23:23-24",
+"Key Phrase (BSB)": "Am I only a God nearby, and not a God far away? Do I not fill heaven and earth?"
+},
+{
+"Week": 23,
+"Name (Hebrew)": "Omnipresent",
+"Name (English)": "Present Everywhere",
+"Day": 3,
+"Scripture Reference": "Acts 17:27-28",
+"Key Phrase (BSB)": "He is not far from each one of us. For in Him we live and move and have our being."
+},
+{
+"Week": 23,
+"Name (Hebrew)": "Omnipresent",
+"Name (English)": "Present Everywhere",
+"Day": 4,
+"Scripture Reference": "Isaiah 66:1",
+"Key Phrase (BSB)": "Heaven is My throne and the earth is My footstool. What kind of house will you build for Me?"
+},
+{
+"Week": 23,
+"Name (Hebrew)": "Omnipresent",
+"Name (English)": "Present Everywhere",
+"Day": 5,
+"Scripture Reference": "Proverbs 15:3",
+"Key Phrase (BSB)": "The eyes of the LORD are in every place, observing the evil and the good."
+},
+{
+"Week": 23,
+"Name (Hebrew)": "Omnipresent",
+"Name (English)": "Present Everywhere",
+"Day": 6,
+"Scripture Reference": "Matthew 18:20",
+"Key Phrase (BSB)": "For where two or three gather in My name, there am I with them."
+},
+{
+"Week": 23,
+"Name (Hebrew)": "Omnipresent",
+"Name (English)": "Present Everywhere",
+"Day": 7,
+"Scripture Reference": "Ephesians 4:6",
+"Key Phrase (BSB)": "One God and Father of all, who is over all and through all and in all."
+},
+{
+"Week": 24,
+"Name (Hebrew)": "Omnipotent",
+"Name (English)": "All-Powerful",
+"Day": 1,
+"Scripture Reference": "Genesis 18:14",
+"Key Phrase (BSB)": "Is anything too difficult for the LORD?"
+},
+{
+"Week": 24,
+"Name (Hebrew)": "Omnipotent",
+"Name (English)": "All-Powerful",
+"Day": 2,
+"Scripture Reference": "Jeremiah 32:17",
+"Key Phrase (BSB)": "Nothing is too difficult for You!"
+},
+{
+"Week": 24,
+"Name (Hebrew)": "Omnipotent",
+"Name (English)": "All-Powerful",
+"Day": 3,
+"Scripture Reference": "Matthew 19:26",
+"Key Phrase (BSB)": "With man this is impossible, but with God all things are possible."
+},
+{
+"Week": 24,
+"Name (Hebrew)": "Omnipotent",
+"Name (English)": "All-Powerful",
+"Day": 4,
+"Scripture Reference": "Luke 1:37",
+"Key Phrase (BSB)": "For nothing will be impossible with God."
+},
+{
+"Week": 24,
+"Name (Hebrew)": "Omnipotent",
+"Name (English)": "All-Powerful",
+"Day": 5,
+"Scripture Reference": "Revelation 19:6",
+"Key Phrase (BSB)": "Hallelujah! For the Lord our God, the Almighty, reigns!"
+},
+{
+"Week": 24,
+"Name (Hebrew)": "Omnipotent",
+"Name (English)": "All-Powerful",
+"Day": 6,
+"Scripture Reference": "Psalm 115:3",
+"Key Phrase (BSB)": "Our God is in the heavens; He does whatever He pleases."
+},
+{
+"Week": 24,
+"Name (Hebrew)": "Omnipotent",
+"Name (English)": "All-Powerful",
+"Day": 7,
+"Scripture Reference": "Job 42:2",
+"Key Phrase (BSB)": "I know that You can do all things and that no plan of Yours can be thwarted."
+},
+{
+"Week": 25,
+"Name (Hebrew)": "Immutable",
+"Name (English)": "Unchanging",
+"Day": 1,
+"Scripture Reference": "Malachi 3:6",
+"Key Phrase (BSB)": "I, the LORD, do not change."
+},
+{
+"Week": 25,
+"Name (Hebrew)": "Immutable",
+"Name (English)": "Unchanging",
+"Day": 2,
+"Scripture Reference": "Psalm 102:26-27",
+"Key Phrase (BSB)": "They will perish, but You will remain. You remain the same, and Your years will never end."
+},
+{
+"Week": 25,
+"Name (Hebrew)": "Immutable",
+"Name (English)": "Unchanging",
+"Day": 3,
+"Scripture Reference": "Hebrews 1:10-12",
+"Key Phrase (BSB)": "They will be changed, but You are the same, and Your years will never end."
+},
+{
+"Week": 25,
+"Name (Hebrew)": "Immutable",
+"Name (English)": "Unchanging",
+"Day": 4,
+"Scripture Reference": "Hebrews 13:8",
+"Key Phrase (BSB)": "Jesus Christ is the same yesterday and today and forever."
+},
+{
+"Week": 25,
+"Name (Hebrew)": "Immutable",
+"Name (English)": "Unchanging",
+"Day": 5,
+"Scripture Reference": "James 1:17",
+"Key Phrase (BSB)": "Every good and perfect gift is from above, coming down from the Father of lights, who does not change like shifting shadows."
+},
+{
+"Week": 25,
+"Name (Hebrew)": "Immutable",
+"Name (English)": "Unchanging",
+"Day": 6,
+"Scripture Reference": "Psalm 33:11",
+"Key Phrase (BSB)": "The plans of the LORD stand firm forever, the purposes of His heart through all generations."
+},
+{
+"Week": 25,
+"Name (Hebrew)": "Immutable",
+"Name (English)": "Unchanging",
+"Day": 7,
+"Scripture Reference": "Isaiah 40:8",
+"Key Phrase (BSB)": "The grass withers and the flowers fall, but the word of our God stands forever."
+},
+{
+"Week": 26,
+"Name (Hebrew)": "Sovereign",
+"Name (English)": "Sovereign",
+"Day": 1,
+"Scripture Reference": "Psalm 103:19",
+"Key Phrase (BSB)": "The LORD has established His throne in heaven, and His kingdom rules over all."
+},
+{
+"Week": 26,
+"Name (Hebrew)": "Sovereign",
+"Name (English)": "Sovereign",
+"Day": 2,
+"Scripture Reference": "Daniel 4:35",
+"Key Phrase (BSB)": "He does as He pleases with the army of heaven and the peoples of the earth. No one can restrain His hand."
+},
+{
+"Week": 26,
+"Name (Hebrew)": "Sovereign",
+"Name (English)": "Sovereign",
+"Day": 3,
+"Scripture Reference": "Isaiah 46:10",
+"Key Phrase (BSB)": "I declare the end from the beginning. My purpose will stand, and I will accomplish all My good pleasure."
+},
+{
+"Week": 26,
+"Name (Hebrew)": "Sovereign",
+"Name (English)": "Sovereign",
+"Day": 4,
+"Scripture Reference": "Ephesians 1:11",
+"Key Phrase (BSB)": "In Him we have been chosen, having been predestined according to the plan of Him who works out everything according to the counsel of His will."
+},
+{
+"Week": 26,
+"Name (Hebrew)": "Sovereign",
+"Name (English)": "Sovereign",
+"Day": 5,
+"Scripture Reference": "Romans 9:15-16",
+"Key Phrase (BSB)": "I will have mercy on whom I have mercy. It does not depend on man's desire or effort, but on God's mercy."
+},
+{
+"Week": 26,
+"Name (Hebrew)": "Sovereign",
+"Name (English)": "Sovereign",
+"Day": 6,
+"Scripture Reference": "Lamentations 3:37-38",
+"Key Phrase (BSB)": "Who has spoken and it came to pass, unless the Lord has ordained it? Do not both adversity and good come from the mouth of the Most High?"
+},
+{
+"Week": 26,
+"Name (Hebrew)": "Sovereign",
+"Name (English)": "Sovereign",
+"Day": 7,
+"Scripture Reference": "Proverbs 21:1",
+"Key Phrase (BSB)": "The king's heart is a stream of water in the hand of the LORD; He directs it wherever He pleases."
+},
+{
+"Week": 27,
+"Name (Hebrew)": "Gracious",
+"Name (English)": "Gracious",
+"Day": 1,
+"Scripture Reference": "Exodus 34:6",
+"Key Phrase (BSB)": "The LORD, the LORD, a God merciful and gracious, slow to anger and abounding in loving devotion and faithfulness."
+},
+{
+"Week": 27,
+"Name (Hebrew)": "Gracious",
+"Name (English)": "Gracious",
+"Day": 2,
+"Scripture Reference": "Psalm 103:8",
+"Key Phrase (BSB)": "The LORD is compassionate and gracious, slow to anger and abounding in loving devotion."
+},
+{
+"Week": 27,
+"Name (Hebrew)": "Gracious",
+"Name (English)": "Gracious",
+"Day": 3,
+"Scripture Reference": "Psalm 145:8",
+"Key Phrase (BSB)": "The LORD is gracious and compassionate, slow to anger and great in loving devotion."
+},
+{
+"Week": 27,
+"Name (Hebrew)": "Gracious",
+"Name (English)": "Gracious",
+"Day": 4,
+"Scripture Reference": "Nehemiah 9:17",
+"Key Phrase (BSB)": "But You are a forgiving God, gracious and compassionate, slow to anger and abounding in loving devotion."
+},
+{
+"Week": 27,
+"Name (Hebrew)": "Gracious",
+"Name (English)": "Gracious",
+"Day": 5,
+"Scripture Reference": "Joel 2:13",
+"Key Phrase (BSB)": "Return to the LORD your God, for He is gracious and compassionate, slow to anger and abounding in loving devotion."
+},
+{
+"Week": 27,
+"Name (Hebrew)": "Gracious",
+"Name (English)": "Gracious",
+"Day": 6,
+"Scripture Reference": "Jonah 4:2",
+"Key Phrase (BSB)": "I knew that You are a gracious and compassionate God, slow to anger and abounding in loving devotion."
+},
+{
+"Week": 27,
+"Name (Hebrew)": "Gracious",
+"Name (English)": "Gracious",
+"Day": 7,
+"Scripture Reference": "1 Peter 5:10",
+"Key Phrase (BSB)": "The God of all grace, who called you to His eternal glory in Christ, will Himself restore you, establish you, strengthen you, and settle you."
+},
+{
+"Week": 28,
+"Name (Hebrew)": "Merciful",
+"Name (English)": "Merciful",
+"Day": 1,
+"Scripture Reference": "Psalm 86:15",
+"Key Phrase (BSB)": "But You, O Lord, are a compassionate and gracious God, slow to anger, abounding in loving devotion and faithfulness."
+},
+{
+"Week": 28,
+"Name (Hebrew)": "Merciful",
+"Name (English)": "Merciful",
+"Day": 2,
+"Scripture Reference": "Psalm 103:8",
+"Key Phrase (BSB)": "The LORD is compassionate and gracious, slow to anger and abounding in loving devotion."
+},
+{
+"Week": 28,
+"Name (Hebrew)": "Merciful",
+"Name (English)": "Merciful",
+"Day": 3,
+"Scripture Reference": "Lamentations 3:22-23",
+"Key Phrase (BSB)": "Because of the LORD's loving devotion we are not consumed, for His mercies never fail. They are new every morning; great is Your faithfulness!"
+},
+{
+"Week": 28,
+"Name (Hebrew)": "Merciful",
+"Name (English)": "Merciful",
+"Day": 4,
+"Scripture Reference": "Luke 6:36",
+"Key Phrase (BSB)": "Be merciful, just as your Father is merciful."
+},
+{
+"Week": 28,
+"Name (Hebrew)": "Merciful",
+"Name (English)": "Merciful",
+"Day": 5,
+"Scripture Reference": "Romans 9:15",
+"Key Phrase (BSB)": "I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion."
+},
+{
+"Week": 28,
+"Name (Hebrew)": "Merciful",
+"Name (English)": "Merciful",
+"Day": 6,
+"Scripture Reference": "Ephesians 2:4-5",
+"Key Phrase (BSB)": "But because of His great love for us, God, who is rich in mercy, made us alive with Christ, even when we were dead in our trespasses."
+},
+{
+"Week": 28,
+"Name (Hebrew)": "Merciful",
+"Name (English)": "Merciful",
+"Day": 7,
+"Scripture Reference": "Titus 3:5",
+"Key Phrase (BSB)": "He saved us, not by the righteous deeds we had done, but according to His mercy."
+},
+{
+"Week": 29,
+"Name (Hebrew)": "Love",
+"Name (English)": "Love",
+"Day": 1,
+"Scripture Reference": "1 John 4:8",
+"Key Phrase (BSB)": "God is love."
+},
+{
+"Week": 29,
+"Name (Hebrew)": "Love",
+"Name (English)": "Love",
+"Day": 2,
+"Scripture Reference": "1 John 4:16",
+"Key Phrase (BSB)": "God is love, and the one who abides in love abides in God, and God abides in him."
+},
+{
+"Week": 29,
+"Name (Hebrew)": "Love",
+"Name (English)": "Love",
+"Day": 3,
+"Scripture Reference": "John 3:16",
+"Key Phrase (BSB)": "For God so loved the world that He gave His one and only Son, that everyone who believes in Him shall not perish but have eternal life."
+},
+{
+"Week": 29,
+"Name (Hebrew)": "Love",
+"Name (English)": "Love",
+"Day": 4,
+"Scripture Reference": "Romans 5:8",
+"Key Phrase (BSB)": "But God demonstrates His own love for us in this: While we were still sinners, Christ died for us."
+},
+{
+"Week": 29,
+"Name (Hebrew)": "Love",
+"Name (English)": "Love",
+"Day": 5,
+"Scripture Reference": "Ephesians 2:4",
+"Key Phrase (BSB)": "But because of His great love for us, God, who is rich in mercy."
+},
+{
+"Week": 29,
+"Name (Hebrew)": "Love",
+"Name (English)": "Love",
+"Day": 6,
+"Scripture Reference": "Deuteronomy 7:7-8",
+"Key Phrase (BSB)": "The LORD did not set His affection on you because you were more numerous. It is because the LORD loved you."
+},
+{
+"Week": 29,
+"Name (Hebrew)": "Love",
+"Name (English)": "Love",
+"Day": 7,
+"Scripture Reference": "Zephaniah 3:17",
+"Key Phrase (BSB)": "He will rejoice over you with gladness; He will quiet you with His love; He will exult over you with singing."
+},
+{
+"Week": 30,
+"Name (Hebrew)": "Faithful",
+"Name (English)": "Faithful",
+"Day": 1,
+"Scripture Reference": "Deuteronomy 7:9",
+"Key Phrase (BSB)": "Know therefore that the LORD your God is God, the faithful God who keeps His covenant of loving devotion for a thousand generations."
+},
+{
+"Week": 30,
+"Name (Hebrew)": "Faithful",
+"Name (English)": "Faithful",
+"Day": 2,
+"Scripture Reference": "Psalm 89:8",
+"Key Phrase (BSB)": "O LORD God of Hosts, who is like You? You are mighty, O LORD, and Your faithfulness surrounds You."
+},
+{
+"Week": 30,
+"Name (Hebrew)": "Faithful",
+"Name (English)": "Faithful",
+"Day": 3,
+"Scripture Reference": "Psalm 36:5",
+"Key Phrase (BSB)": "Your loving devotion, O LORD, reaches to the heavens, Your faithfulness to the clouds."
+},
+{
+"Week": 30,
+"Name (Hebrew)": "Faithful",
+"Name (English)": "Faithful",
+"Day": 4,
+"Scripture Reference": "Lamentations 3:23",
+"Key Phrase (BSB)": "They are new every morning; great is Your faithfulness!"
+},
+{
+"Week": 30,
+"Name (Hebrew)": "Faithful",
+"Name (English)": "Faithful",
+"Day": 5,
+"Scripture Reference": "1 Corinthians 1:9",
+"Key Phrase (BSB)": "God is faithful, who has called you into fellowship with His Son, Jesus Christ our Lord."
+},
+{
+"Week": 30,
+"Name (Hebrew)": "Faithful",
+"Name (English)": "Faithful",
+"Day": 6,
+"Scripture Reference": "2 Timothy 2:13",
+"Key Phrase (BSB)": "If we are faithless, He remains faithful, for He cannot deny Himself."
+},
+{
+"Week": 30,
+"Name (Hebrew)": "Faithful",
+"Name (English)": "Faithful",
+"Day": 7,
+"Scripture Reference": "Hebrews 10:23",
+"Key Phrase (BSB)": "Let us hold resolutely to the hope we profess, for He who promised is faithful."
+},
+{
+"Week": 31,
+"Name (Hebrew)": "True",
+"Name (English)": "True",
+"Day": 1,
+"Scripture Reference": "Psalm 145:18",
+"Key Phrase (BSB)": "The LORD is near to all who call on Him, to all who call on Him in truth."
+},
+{
+"Week": 31,
+"Name (Hebrew)": "True",
+"Name (English)": "True",
+"Day": 2,
+"Scripture Reference": "John 14:6",
+"Key Phrase (BSB)": "I am the way and the truth and the life."
+},
+{
+"Week": 31,
+"Name (Hebrew)": "True",
+"Name (English)": "True",
+"Day": 3,
+"Scripture Reference": "John 17:3",
+"Key Phrase (BSB)": "Now this is eternal life, that they may know You, the only true God."
+},
+{
+"Week": 31,
+"Name (Hebrew)": "True",
+"Name (English)": "True",
+"Day": 4,
+"Scripture Reference": "Romans 3:4",
+"Key Phrase (BSB)": "Let God be found true, and every man a liar."
+},
+{
+"Week": 31,
+"Name (Hebrew)": "True",
+"Name (English)": "True",
+"Day": 5,
+"Scripture Reference": "Revelation 3:7",
+"Key Phrase (BSB)": "These are the words of the One who is holy and true."
+},
+{
+"Week": 31,
+"Name (Hebrew)": "True",
+"Name (English)": "True",
+"Day": 6,
+"Scripture Reference": "Revelation 15:3",
+"Key Phrase (BSB)": "Great and wonderful are Your works, Lord God Almighty! Just and true are Your ways, O King of the nations!"
+},
+{
+"Week": 31,
+"Name (Hebrew)": "True",
+"Name (English)": "True",
+"Day": 7,
+"Scripture Reference": "1 John 5:20",
+"Key Phrase (BSB)": "We know also that the Son of God has come and has given us understanding, so that we may know Him who is true."
+},
+{
+"Week": 32,
+"Name (Hebrew)": "Patient",
+"Name (English)": "Patient (Longsuffering)",
+"Day": 1,
+"Scripture Reference": "Exodus 34:6",
+"Key Phrase (BSB)": "The LORD, a God merciful and gracious, slow to anger."
+},
+{
+"Week": 32,
+"Name (Hebrew)": "Patient",
+"Name (English)": "Patient (Longsuffering)",
+"Day": 2,
+"Scripture Reference": "Numbers 14:18",
+"Key Phrase (BSB)": "The LORD is slow to anger and abounding in loving devotion, forgiving iniquity and transgression."
+},
+{
+"Week": 32,
+"Name (Hebrew)": "Patient",
+"Name (English)": "Patient (Longsuffering)",
+"Day": 3,
+"Scripture Reference": "Psalm 103:8",
+"Key Phrase (BSB)": "The LORD is compassionate and gracious, slow to anger."
+},
+{
+"Week": 32,
+"Name (Hebrew)": "Patient",
+"Name (English)": "Patient (Longsuffering)",
+"Day": 4,
+"Scripture Reference": "Romans 2:4",
+"Key Phrase (BSB)": "God's kindness leads you to repentance."
+},
+{
+"Week": 32,
+"Name (Hebrew)": "Patient",
+"Name (English)": "Patient (Longsuffering)",
+"Day": 5,
+"Scripture Reference": "Romans 9:22",
+"Key Phrase (BSB)": "What if God, choosing to show His wrath and make His power known, bore with great patience the objects of His wrath?"
+},
+{
+"Week": 32,
+"Name (Hebrew)": "Patient",
+"Name (English)": "Patient (Longsuffering)",
+"Day": 6,
+"Scripture Reference": "2 Peter 3:9",
+"Key Phrase (BSB)": "The Lord is not slow in keeping His promise; He is patient with you, not wanting anyone to perish, but everyone to come to repentance."
+},
+{
+"Week": 32,
+"Name (Hebrew)": "Patient",
+"Name (English)": "Patient (Longsuffering)",
+"Day": 7,
+"Scripture Reference": "Nehemiah 9:17",
+"Key Phrase (BSB)": "But You are a forgiving God, gracious and compassionate, slow to anger."
+},
+{
+"Week": 33,
+"Name (Hebrew)": "Provider",
+"Name (English)": "Provider",
+"Day": 1,
+"Scripture Reference": "Genesis 22:14",
+"Key Phrase (BSB)": "The LORD Will Provide."
+},
+{
+"Week": 33,
+"Name (Hebrew)": "Provider",
+"Name (English)": "Provider",
+"Day": 2,
+"Scripture Reference": "Psalm 23:1",
+"Key Phrase (BSB)": "The LORD is my shepherd; I shall not want."
+},
+{
+"Week": 33,
+"Name (Hebrew)": "Provider",
+"Name (English)": "Provider",
+"Day": 3,
+"Scripture Reference": "Matthew 6:26-33",
+"Key Phrase (BSB)": "Look at the birds. Your heavenly Father feeds them. Are you not much more valuable than they?"
+},
+{
+"Week": 33,
+"Name (Hebrew)": "Provider",
+"Name (English)": "Provider",
+"Day": 4,
+"Scripture Reference": "Philippians 4:19",
+"Key Phrase (BSB)": "My God will supply all your needs according to His glorious riches in Christ Jesus."
+},
+{
+"Week": 33,
+"Name (Hebrew)": "Provider",
+"Name (English)": "Provider",
+"Day": 5,
+"Scripture Reference": "Luke 12:24",
+"Key Phrase (BSB)": "Consider the ravens: God feeds them. How much more valuable are you than birds!"
+},
+{
+"Week": 33,
+"Name (Hebrew)": "Provider",
+"Name (English)": "Provider",
+"Day": 6,
+"Scripture Reference": "2 Corinthians 9:8",
+"Key Phrase (BSB)": "God is able to make all grace abound to you, so that in all things you will abound in every good work."
+},
+{
+"Week": 33,
+"Name (Hebrew)": "Provider",
+"Name (English)": "Provider",
+"Day": 7,
+"Scripture Reference": "Psalm 34:10",
+"Key Phrase (BSB)": "Those who seek the LORD will not lack any good thing."
+},
+{
+"Week": 34,
+"Name (Hebrew)": "Deliverer",
+"Name (English)": "Deliverer / Savior",
+"Day": 1,
+"Scripture Reference": "Psalm 18:2",
+"Key Phrase (BSB)": "The LORD is my rock, my fortress, and my deliverer."
+},
+{
+"Week": 34,
+"Name (Hebrew)": "Deliverer",
+"Name (English)": "Deliverer / Savior",
+"Day": 2,
+"Scripture Reference": "Psalm 40:17",
+"Key Phrase (BSB)": "You are my help and my deliverer; O my God, do not delay."
+},
+{
+"Week": 34,
+"Name (Hebrew)": "Deliverer",
+"Name (English)": "Deliverer / Savior",
+"Day": 3,
+"Scripture Reference": "Isaiah 43:3",
+"Key Phrase (BSB)": "For I am the LORD your God, the Holy One of Israel, your Savior."
+},
+{
+"Week": 34,
+"Name (Hebrew)": "Deliverer",
+"Name (English)": "Deliverer / Savior",
+"Day": 4,
+"Scripture Reference": "Isaiah 45:21",
+"Key Phrase (BSB)": "There is no God but Me — a righteous God and Savior; there is none but Me."
+},
+{
+"Week": 34,
+"Name (Hebrew)": "Deliverer",
+"Name (English)": "Deliverer / Savior",
+"Day": 5,
+"Scripture Reference": "Luke 2:11",
+"Key Phrase (BSB)": "Today in the city of David a Savior has been born to you. He is Christ the Lord!"
+},
+{
+"Week": 34,
+"Name (Hebrew)": "Deliverer",
+"Name (English)": "Deliverer / Savior",
+"Day": 6,
+"Scripture Reference": "Acts 13:23",
+"Key Phrase (BSB)": "From this man's descendants, God has brought to Israel the Savior Jesus, as He promised."
+},
+{
+"Week": 34,
+"Name (Hebrew)": "Deliverer",
+"Name (English)": "Deliverer / Savior",
+"Day": 7,
+"Scripture Reference": "1 Timothy 4:10",
+"Key Phrase (BSB)": "We have set our hope on the living God, who is the Savior of all men, and especially of those who believe."
+},
+{
+"Week": 35,
+"Name (Hebrew)": "Redeemer",
+"Name (English)": "Redeemer",
+"Day": 1,
+"Scripture Reference": "Job 19:25",
+"Key Phrase (BSB)": "I know that my Redeemer lives, and that in the end He will stand upon the earth."
+},
+{
+"Week": 35,
+"Name (Hebrew)": "Redeemer",
+"Name (English)": "Redeemer",
+"Day": 2,
+"Scripture Reference": "Psalm 78:35",
+"Key Phrase (BSB)": "They remembered that God was their Rock, and the Most High God their Redeemer."
+},
+{
+"Week": 35,
+"Name (Hebrew)": "Redeemer",
+"Name (English)": "Redeemer",
+"Day": 3,
+"Scripture Reference": "Isaiah 41:14",
+"Key Phrase (BSB)": "Do not be afraid, O worm Jacob. I Myself will help you, declares the LORD, your Redeemer, the Holy One of Israel."
+},
+{
+"Week": 35,
+"Name (Hebrew)": "Redeemer",
+"Name (English)": "Redeemer",
+"Day": 4,
+"Scripture Reference": "Isaiah 44:24",
+"Key Phrase (BSB)": "This is what the LORD says, your Redeemer, who formed you in the womb: I am the LORD, who has made all things."
+},
+{
+"Week": 35,
+"Name (Hebrew)": "Redeemer",
+"Name (English)": "Redeemer",
+"Day": 5,
+"Scripture Reference": "Galatians 3:13",
+"Key Phrase (BSB)": "Christ redeemed us from the curse of the law by becoming a curse for us."
+},
+{
+"Week": 35,
+"Name (Hebrew)": "Redeemer",
+"Name (English)": "Redeemer",
+"Day": 6,
+"Scripture Reference": "Titus 2:14",
+"Key Phrase (BSB)": "He gave Himself for us to redeem us from all lawlessness and to purify for Himself a people for His own possession."
+},
+{
+"Week": 35,
+"Name (Hebrew)": "Redeemer",
+"Name (English)": "Redeemer",
+"Day": 7,
+"Scripture Reference": "1 Peter 1:18-19",
+"Key Phrase (BSB)": "You were redeemed, not with perishable things like silver or gold, but with the precious blood of Christ."
+},
+{
+"Week": 36,
+"Name (Hebrew)": "Creator",
+"Name (English)": "Creator",
+"Day": 1,
+"Scripture Reference": "Genesis 1:1",
+"Key Phrase (BSB)": "In the beginning God created the heavens and the earth."
+},
+{
+"Week": 36,
+"Name (Hebrew)": "Creator",
+"Name (English)": "Creator",
+"Day": 2,
+"Scripture Reference": "Psalm 33:6-9",
+"Key Phrase (BSB)": "By the word of the LORD the heavens were made. He spoke, and it came to be."
+},
+{
+"Week": 36,
+"Name (Hebrew)": "Creator",
+"Name (English)": "Creator",
+"Day": 3,
+"Scripture Reference": "Isaiah 40:28",
+"Key Phrase (BSB)": "The LORD is the Creator of the ends of the earth. He will not grow tired or weary."
+},
+{
+"Week": 36,
+"Name (Hebrew)": "Creator",
+"Name (English)": "Creator",
+"Day": 4,
+"Scripture Reference": "Nehemiah 9:6",
+"Key Phrase (BSB)": "You alone are the LORD. You made the heavens and all their host."
+},
+{
+"Week": 36,
+"Name (Hebrew)": "Creator",
+"Name (English)": "Creator",
+"Day": 5,
+"Scripture Reference": "John 1:3",
+"Key Phrase (BSB)": "Through Him all things were made; without Him nothing was made."
+},
+{
+"Week": 36,
+"Name (Hebrew)": "Creator",
+"Name (English)": "Creator",
+"Day": 6,
+"Scripture Reference": "Colossians 1:16",
+"Key Phrase (BSB)": "For in Him all things were created, things in heaven and on earth, visible and invisible."
+},
+{
+"Week": 36,
+"Name (Hebrew)": "Creator",
+"Name (English)": "Creator",
+"Day": 7,
+"Scripture Reference": "Revelation 4:11",
+"Key Phrase (BSB)": "You are worthy, our Lord and God, to receive glory and honor and power, for You created all things."
+},
+{
+"Week": 37,
+"Name (Hebrew)": "Shepherd",
+"Name (English)": "Shepherd",
+"Day": 1,
+"Scripture Reference": "Psalm 23:1",
+"Key Phrase (BSB)": "The LORD is my shepherd; I shall not want."
+},
+{
+"Week": 37,
+"Name (Hebrew)": "Shepherd",
+"Name (English)": "Shepherd",
+"Day": 2,
+"Scripture Reference": "Isaiah 40:11",
+"Key Phrase (BSB)": "He tends His flock like a shepherd; He gathers the lambs in His arms."
+},
+{
+"Week": 37,
+"Name (Hebrew)": "Shepherd",
+"Name (English)": "Shepherd",
+"Day": 3,
+"Scripture Reference": "John 10:11",
+"Key Phrase (BSB)": "I am the good shepherd. The good shepherd lays down His life for the sheep."
+},
+{
+"Week": 37,
+"Name (Hebrew)": "Shepherd",
+"Name (English)": "Shepherd",
+"Day": 4,
+"Scripture Reference": "John 10:14",
+"Key Phrase (BSB)": "I am the good shepherd; I know My sheep and My sheep know Me."
+},
+{
+"Week": 37,
+"Name (Hebrew)": "Shepherd",
+"Name (English)": "Shepherd",
+"Day": 5,
+"Scripture Reference": "Hebrews 13:20",
+"Key Phrase (BSB)": "The God of peace, who brought back from the dead our Lord Jesus, that great Shepherd of the sheep."
+},
+{
+"Week": 37,
+"Name (Hebrew)": "Shepherd",
+"Name (English)": "Shepherd",
+"Day": 6,
+"Scripture Reference": "1 Peter 2:25",
+"Key Phrase (BSB)": "You have returned to the Shepherd and Overseer of your souls."
+},
+{
+"Week": 37,
+"Name (Hebrew)": "Shepherd",
+"Name (English)": "Shepherd",
+"Day": 7,
+"Scripture Reference": "Ezekiel 34:11-12",
+"Key Phrase (BSB)": "I Myself will search for My sheep and look after them."
+},
+{
+"Week": 38,
+"Name (Hebrew)": "King",
+"Name (English)": "King",
+"Day": 1,
+"Scripture Reference": "Psalm 47:7",
+"Key Phrase (BSB)": "God is the King of all the earth; sing to Him a psalm of praise."
+},
+{
+"Week": 38,
+"Name (Hebrew)": "King",
+"Name (English)": "King",
+"Day": 2,
+"Scripture Reference": "Psalm 99:1",
+"Key Phrase (BSB)": "The LORD reigns, let the nations tremble; He sits enthroned between the cherubim, let the earth shake."
+},
+{
+"Week": 38,
+"Name (Hebrew)": "King",
+"Name (English)": "King",
+"Day": 3,
+"Scripture Reference": "Isaiah 6:5",
+"Key Phrase (BSB)": "My eyes have seen the King, the LORD of Hosts!"
+},
+{
+"Week": 38,
+"Name (Hebrew)": "King",
+"Name (English)": "King",
+"Day": 4,
+"Scripture Reference": "Jeremiah 10:10",
+"Key Phrase (BSB)": "The LORD is the true God; He is the living God and everlasting King."
+},
+{
+"Week": 38,
+"Name (Hebrew)": "King",
+"Name (English)": "King",
+"Day": 5,
+"Scripture Reference": "Revelation 19:16",
+"Key Phrase (BSB)": "On His robe and on His thigh He has this name written: KING OF KINGS AND LORD OF LORDS."
+},
+{
+"Week": 38,
+"Name (Hebrew)": "King",
+"Name (English)": "King",
+"Day": 6,
+"Scripture Reference": "1 Timothy 1:17",
+"Key Phrase (BSB)": "Now to the King eternal, immortal, invisible, the only God, be honor and glory forever and ever."
+},
+{
+"Week": 38,
+"Name (Hebrew)": "King",
+"Name (English)": "King",
+"Day": 7,
+"Scripture Reference": "Psalm 24:7-10",
+"Key Phrase (BSB)": "Who is this King of glory? The LORD strong and mighty, the LORD mighty in battle."
+},
+{
+"Week": 39,
+"Name (Hebrew)": "Rock",
+"Name (English)": "Rock",
+"Day": 1,
+"Scripture Reference": "Deuteronomy 32:4",
+"Key Phrase (BSB)": "He is the Rock, His works are perfect, and all His ways are just."
+},
+{
+"Week": 39,
+"Name (Hebrew)": "Rock",
+"Name (English)": "Rock",
+"Day": 2,
+"Scripture Reference": "Psalm 18:2",
+"Key Phrase (BSB)": "The LORD is my rock, my fortress, and my deliverer; my God is my rock, in whom I take refuge."
+},
+{
+"Week": 39,
+"Name (Hebrew)": "Rock",
+"Name (English)": "Rock",
+"Day": 3,
+"Scripture Reference": "Psalm 62:7",
+"Key Phrase (BSB)": "My salvation and my honor rest on God; my mighty rock, my refuge is God."
+},
+{
+"Week": 39,
+"Name (Hebrew)": "Rock",
+"Name (English)": "Rock",
+"Day": 4,
+"Scripture Reference": "Isaiah 26:4",
+"Key Phrase (BSB)": "Trust in the LORD forever, for the LORD GOD is an everlasting Rock."
+},
+{
+"Week": 39,
+"Name (Hebrew)": "Rock",
+"Name (English)": "Rock",
+"Day": 5,
+"Scripture Reference": "1 Corinthians 10:4",
+"Key Phrase (BSB)": "They drank from the spiritual Rock that accompanied them, and that Rock was Christ."
+},
+{
+"Week": 39,
+"Name (Hebrew)": "Rock",
+"Name (English)": "Rock",
+"Day": 6,
+"Scripture Reference": "Matthew 16:18",
+"Key Phrase (BSB)": "On this rock I will build My church, and the gates of Hades will not prevail against it."
+},
+{
+"Week": 39,
+"Name (Hebrew)": "Rock",
+"Name (English)": "Rock",
+"Day": 7,
+"Scripture Reference": "Psalm 94:22",
+"Key Phrase (BSB)": "But the LORD has been my stronghold, and my God the rock of my refuge."
+},
+{
+"Week": 40,
+"Name (Hebrew)": "Refuge",
+"Name (English)": "Refuge",
+"Day": 1,
+"Scripture Reference": "Psalm 9:9",
+"Key Phrase (BSB)": "The LORD is a refuge for the oppressed, a stronghold in times of trouble."
+},
+{
+"Week": 40,
+"Name (Hebrew)": "Refuge",
+"Name (English)": "Refuge",
+"Day": 2,
+"Scripture Reference": "Psalm 46:1",
+"Key Phrase (BSB)": "God is our refuge and strength, an ever-present help in times of trouble."
+},
+{
+"Week": 40,
+"Name (Hebrew)": "Refuge",
+"Name (English)": "Refuge",
+"Day": 3,
+"Scripture Reference": "Psalm 62:8",
+"Key Phrase (BSB)": "Trust in Him at all times, O people; pour out your hearts before Him. God is our refuge."
+},
+{
+"Week": 40,
+"Name (Hebrew)": "Refuge",
+"Name (English)": "Refuge",
+"Day": 4,
+"Scripture Reference": "Nahum 1:7",
+"Key Phrase (BSB)": "The LORD is good, a stronghold in the day of trouble; He knows those who take refuge in Him."
+},
+{
+"Week": 40,
+"Name (Hebrew)": "Refuge",
+"Name (English)": "Refuge",
+"Day": 5,
+"Scripture Reference": "Deuteronomy 33:27",
+"Key Phrase (BSB)": "The eternal God is your refuge, and underneath are the everlasting arms."
+},
+{
+"Week": 40,
+"Name (Hebrew)": "Refuge",
+"Name (English)": "Refuge",
+"Day": 6,
+"Scripture Reference": "Psalm 142:5",
+"Key Phrase (BSB)": "I cry to You, O LORD; I say, 'You are my refuge, my portion in the land of the living.'"
+},
+{
+"Week": 40,
+"Name (Hebrew)": "Refuge",
+"Name (English)": "Refuge",
+"Day": 7,
+"Scripture Reference": "Jeremiah 16:19",
+"Key Phrase (BSB)": "O LORD, my strength and my fortress, my refuge in the day of distress."
+},
+{
+"Week": 41,
+"Name (Hebrew)": "Fortress",
+"Name (English)": "Fortress",
+"Day": 1,
+"Scripture Reference": "Psalm 18:2",
+"Key Phrase (BSB)": "The LORD is my rock, my fortress, and my deliverer."
+},
+{
+"Week": 41,
+"Name (Hebrew)": "Fortress",
+"Name (English)": "Fortress",
+"Day": 2,
+"Scripture Reference": "Psalm 91:2",
+"Key Phrase (BSB)": "I will say of the LORD, 'He is my refuge and my fortress, my God, in whom I trust.'"
+},
+{
+"Week": 41,
+"Name (Hebrew)": "Fortress",
+"Name (English)": "Fortress",
+"Day": 3,
+"Scripture Reference": "Psalm 144:2",
+"Key Phrase (BSB)": "My loving God, my fortress, my stronghold and my deliverer, my shield, in whom I take refuge."
+},
+{
+"Week": 41,
+"Name (Hebrew)": "Fortress",
+"Name (English)": "Fortress",
+"Day": 4,
+"Scripture Reference": "Jeremiah 16:19",
+"Key Phrase (BSB)": "O LORD, my strength and my fortress, my refuge in the day of distress."
+},
+{
+"Week": 41,
+"Name (Hebrew)": "Fortress",
+"Name (English)": "Fortress",
+"Day": 5,
+"Scripture Reference": "2 Samuel 22:2",
+"Key Phrase (BSB)": "The LORD is my rock, my fortress, and my deliverer."
+},
+{
+"Week": 41,
+"Name (Hebrew)": "Fortress",
+"Name (English)": "Fortress",
+"Day": 6,
+"Scripture Reference": "Psalm 31:3",
+"Key Phrase (BSB)": "For You are my rock and my fortress; lead me and guide me for the sake of Your name."
+},
+{
+"Week": 41,
+"Name (Hebrew)": "Fortress",
+"Name (English)": "Fortress",
+"Day": 7,
+"Scripture Reference": "Proverbs 18:10",
+"Key Phrase (BSB)": "The name of the LORD is a strong tower; the righteous run to it and are safe."
+},
+{
+"Week": 42,
+"Name (Hebrew)": "Stronghold",
+"Name (English)": "Stronghold",
+"Day": 1,
+"Scripture Reference": "Psalm 18:2",
+"Key Phrase (BSB)": "The LORD is my rock, my fortress, my deliverer, my God, my stronghold."
+},
+{
+"Week": 42,
+"Name (Hebrew)": "Stronghold",
+"Name (English)": "Stronghold",
+"Day": 2,
+"Scripture Reference": "Nahum 1:7",
+"Key Phrase (BSB)": "The LORD is good, a stronghold in the day of trouble."
+},
+{
+"Week": 42,
+"Name (Hebrew)": "Stronghold",
+"Name (English)": "Stronghold",
+"Day": 3,
+"Scripture Reference": "Jeremiah 16:19",
+"Key Phrase (BSB)": "O LORD, my strength and my fortress, my refuge in the day of distress."
+},
+{
+"Week": 42,
+"Name (Hebrew)": "Stronghold",
+"Name (English)": "Stronghold",
+"Day": 4,
+"Scripture Reference": "2 Samuel 22:33",
+"Key Phrase (BSB)": "God is my strong fortress, and He makes my way perfect."
+},
+{
+"Week": 42,
+"Name (Hebrew)": "Stronghold",
+"Name (English)": "Stronghold",
+"Day": 5,
+"Scripture Reference": "Psalm 27:1",
+"Key Phrase (BSB)": "The LORD is my light and my salvation — whom shall I fear? The LORD is the stronghold of my life — whom shall I dread?"
+},
+{
+"Week": 42,
+"Name (Hebrew)": "Stronghold",
+"Name (English)": "Stronghold",
+"Day": 6,
+"Scripture Reference": "Isaiah 25:4",
+"Key Phrase (BSB)": "For You have been a refuge for the poor, a refuge for the needy in distress, a shelter from the storm."
+},
+{
+"Week": 42,
+"Name (Hebrew)": "Stronghold",
+"Name (English)": "Stronghold",
+"Day": 7,
+"Scripture Reference": "Psalm 52:7",
+"Key Phrase (BSB)": "But I am like a flourishing olive tree in the house of God; I trust in God's loving devotion forever and ever."
+},
+{
+"Week": 43,
+"Name (Hebrew)": "Warrior",
+"Name (English)": "Warrior",
+"Day": 1,
+"Scripture Reference": "Exodus 15:3",
+"Key Phrase (BSB)": "The LORD is a warrior; the LORD is His name."
+},
+{
+"Week": 43,
+"Name (Hebrew)": "Warrior",
+"Name (English)": "Warrior",
+"Day": 2,
+"Scripture Reference": "Isaiah 42:13",
+"Key Phrase (BSB)": "The LORD will march out like a mighty one; He will stir up His zeal like a warrior."
+},
+{
+"Week": 43,
+"Name (Hebrew)": "Warrior",
+"Name (English)": "Warrior",
+"Day": 3,
+"Scripture Reference": "Deuteronomy 1:30",
+"Key Phrase (BSB)": "The LORD your God, who goes before you, will fight for you Himself."
+},
+{
+"Week": 43,
+"Name (Hebrew)": "Warrior",
+"Name (English)": "Warrior",
+"Day": 4,
+"Scripture Reference": "Joshua 5:13-15",
+"Key Phrase (BSB)": "I have now come as Commander of the LORD's army."
+},
+{
+"Week": 43,
+"Name (Hebrew)": "Warrior",
+"Name (English)": "Warrior",
+"Day": 5,
+"Scripture Reference": "Psalm 24:8",
+"Key Phrase (BSB)": "Who is this King of glory? The LORD strong and mighty, the LORD mighty in battle."
+},
+{
+"Week": 43,
+"Name (Hebrew)": "Warrior",
+"Name (English)": "Warrior",
+"Day": 6,
+"Scripture Reference": "Isaiah 59:16-17",
+"Key Phrase (BSB)": "He put on righteousness as His breastplate, and the helmet of salvation on His head."
+},
+{
+"Week": 43,
+"Name (Hebrew)": "Warrior",
+"Name (English)": "Warrior",
+"Day": 7,
+"Scripture Reference": "Zephaniah 3:17",
+"Key Phrase (BSB)": "The LORD your God is among you, a mighty one who saves."
+},
+{
+"Week": 44,
+"Name (Hebrew)": "Avenger",
+"Name (English)": "Avenger",
+"Day": 1,
+"Scripture Reference": "Deuteronomy 32:35",
+"Key Phrase (BSB)": "Vengeance is Mine; I will repay. In due time their foot will slip."
+},
+{
+"Week": 44,
+"Name (Hebrew)": "Avenger",
+"Name (English)": "Avenger",
+"Day": 2,
+"Scripture Reference": "Romans 12:19",
+"Key Phrase (BSB)": "Do not avenge yourselves. Vengeance is Mine; I will repay, says the Lord."
+},
+{
+"Week": 44,
+"Name (Hebrew)": "Avenger",
+"Name (English)": "Avenger",
+"Day": 3,
+"Scripture Reference": "Nahum 1:2",
+"Key Phrase (BSB)": "The LORD is a jealous and avenging God; the LORD takes vengeance. The LORD is full of wrath."
+},
+{
+"Week": 44,
+"Name (Hebrew)": "Avenger",
+"Name (English)": "Avenger",
+"Day": 4,
+"Scripture Reference": "Psalm 94:1",
+"Key Phrase (BSB)": "O LORD, God of vengeance, O God of vengeance, shine forth!"
+},
+{
+"Week": 44,
+"Name (Hebrew)": "Avenger",
+"Name (English)": "Avenger",
+"Day": 5,
+"Scripture Reference": "Isaiah 59:17",
+"Key Phrase (BSB)": "He put on garments of vengeance and wrapped Himself in a cloak of zeal."
+},
+{
+"Week": 44,
+"Name (Hebrew)": "Avenger",
+"Name (English)": "Avenger",
+"Day": 6,
+"Scripture Reference": "Jeremiah 51:36",
+"Key Phrase (BSB)": "I will plead your cause and take vengeance on your behalf."
+},
+{
+"Week": 44,
+"Name (Hebrew)": "Avenger",
+"Name (English)": "Avenger",
+"Day": 7,
+"Scripture Reference": "1 Thessalonians 4:6",
+"Key Phrase (BSB)": "The Lord is an avenger in all these things, as we told you before and solemnly warned you."
+},
+{
+"Week": 45,
+"Name (Hebrew)": "Wrathful",
+"Name (English)": "Wrathful",
+"Day": 1,
+"Scripture Reference": "Numbers 11:1",
+"Key Phrase (BSB)": "The fire of the LORD burned among them and consumed some of the outskirts of the camp."
+},
+{
+"Week": 45,
+"Name (Hebrew)": "Wrathful",
+"Name (English)": "Wrathful",
+"Day": 2,
+"Scripture Reference": "Deuteronomy 29:20",
+"Key Phrase (BSB)": "The LORD will never be willing to forgive him. His anger and jealousy will burn against that man."
+},
+{
+"Week": 45,
+"Name (Hebrew)": "Wrathful",
+"Name (English)": "Wrathful",
+"Day": 3,
+"Scripture Reference": "Psalm 7:11",
+"Key Phrase (BSB)": "God is a righteous judge, and a God who feels indignation every day."
+},
+{
+"Week": 45,
+"Name (Hebrew)": "Wrathful",
+"Name (English)": "Wrathful",
+"Day": 4,
+"Scripture Reference": "Nahum 1:2",
+"Key Phrase (BSB)": "The LORD is a jealous and avenging God. The LORD takes vengeance and is full of wrath."
+},
+{
+"Week": 45,
+"Name (Hebrew)": "Wrathful",
+"Name (English)": "Wrathful",
+"Day": 5,
+"Scripture Reference": "Romans 1:18",
+"Key Phrase (BSB)": "The wrath of God is being revealed from heaven against all the godlessness and wickedness of men."
+},
+{
+"Week": 45,
+"Name (Hebrew)": "Wrathful",
+"Name (English)": "Wrathful",
+"Day": 6,
+"Scripture Reference": "Ephesians 5:6",
+"Key Phrase (BSB)": "Let no one deceive you with empty words, for because of such things God's wrath comes on the sons of disobedience."
+},
+{
+"Week": 45,
+"Name (Hebrew)": "Wrathful",
+"Name (English)": "Wrathful",
+"Day": 7,
+"Scripture Reference": "Revelation 19:15",
+"Key Phrase (BSB)": "He treads the winepress of the fury of the wrath of God Almighty."
+},
+{
+"Week": 46,
+"Name (Hebrew)": "Consuming Fire",
+"Name (English)": "Consuming Fire",
+"Day": 1,
+"Scripture Reference": "Deuteronomy 4:24",
+"Key Phrase (BSB)": "For the LORD your God is a consuming fire, a jealous God."
+},
+{
+"Week": 46,
+"Name (Hebrew)": "Consuming Fire",
+"Name (English)": "Consuming Fire",
+"Day": 2,
+"Scripture Reference": "Deuteronomy 9:3",
+"Key Phrase (BSB)": "Know today that the LORD your God goes across ahead of you as a consuming fire. He will destroy them."
+},
+{
+"Week": 46,
+"Name (Hebrew)": "Consuming Fire",
+"Name (English)": "Consuming Fire",
+"Day": 3,
+"Scripture Reference": "Hebrews 12:29",
+"Key Phrase (BSB)": "For our God is a consuming fire."
+},
+{
+"Week": 46,
+"Name (Hebrew)": "Consuming Fire",
+"Name (English)": "Consuming Fire",
+"Day": 4,
+"Scripture Reference": "Exodus 24:17",
+"Key Phrase (BSB)": "The appearance of the LORD's glory on the mountaintop was like a consuming fire."
+},
+{
+"Week": 46,
+"Name (Hebrew)": "Consuming Fire",
+"Name (English)": "Consuming Fire",
+"Day": 5,
+"Scripture Reference": "Isaiah 30:27",
+"Key Phrase (BSB)": "The name of the LORD comes from afar, with burning anger and dense clouds of smoke."
+},
+{
+"Week": 46,
+"Name (Hebrew)": "Consuming Fire",
+"Name (English)": "Consuming Fire",
+"Day": 6,
+"Scripture Reference": "Jeremiah 4:4",
+"Key Phrase (BSB)": "Lest My wrath break out like fire and burn with no one to quench it."
+},
+{
+"Week": 46,
+"Name (Hebrew)": "Consuming Fire",
+"Name (English)": "Consuming Fire",
+"Day": 7,
+"Scripture Reference": "Ezekiel 22:31",
+"Key Phrase (BSB)": "So I have consumed them with the fire of My fury, bringing their ways down on their own heads."
+},
+{
+"Week": 47,
+"Name (Hebrew)": "Jealous",
+"Name (English)": "Jealous (Zealous for His Own)",
+"Day": 1,
+"Scripture Reference": "Exodus 20:5",
+"Key Phrase (BSB)": "For I, the LORD your God, am a jealous God."
+},
+{
+"Week": 47,
+"Name (Hebrew)": "Jealous",
+"Name (English)": "Jealous (Zealous for His Own)",
+"Day": 2,
+"Scripture Reference": "Exodus 34:14",
+"Key Phrase (BSB)": "For the LORD, whose name is Jealous, is a jealous God."
+},
+{
+"Week": 47,
+"Name (Hebrew)": "Jealous",
+"Name (English)": "Jealous (Zealous for His Own)",
+"Day": 3,
+"Scripture Reference": "Deuteronomy 6:15",
+"Key Phrase (BSB)": "For the LORD your God, who is among you, is a jealous God."
+},
+{
+"Week": 47,
+"Name (Hebrew)": "Jealous",
+"Name (English)": "Jealous (Zealous for His Own)",
+"Day": 4,
+"Scripture Reference": "Joshua 24:19",
+"Key Phrase (BSB)": "He is a holy God; He is a jealous God. He will not forgive your transgressions or your sins."
+},
+{
+"Week": 47,
+"Name (Hebrew)": "Jealous",
+"Name (English)": "Jealous (Zealous for His Own)",
+"Day": 5,
+"Scripture Reference": "Ezekiel 39:25",
+"Key Phrase (BSB)": "Now I will restore Jacob from captivity and have compassion on the whole house of Israel, and I will be jealous for My holy name."
+},
+{
+"Week": 47,
+"Name (Hebrew)": "Jealous",
+"Name (English)": "Jealous (Zealous for His Own)",
+"Day": 6,
+"Scripture Reference": "Joel 2:18",
+"Key Phrase (BSB)": "Then the LORD will be jealous for His land and will have compassion on His people."
+},
+{
+"Week": 47,
+"Name (Hebrew)": "Jealous",
+"Name (English)": "Jealous (Zealous for His Own)",
+"Day": 7,
+"Scripture Reference": "Zechariah 1:14",
+"Key Phrase (BSB)": "I am very jealous for Jerusalem and Zion."
+},
+{
+"Week": 48,
+"Name (Hebrew)": "Unapproachable Light",
+"Name (English)": "Unapproachable Light",
+"Day": 1,
+"Scripture Reference": "1 Timothy 6:16",
+"Key Phrase (BSB)": "He alone is immortal and dwells in unapproachable light. No one has ever seen Him, nor can anyone see Him."
+},
+{
+"Week": 48,
+"Name (Hebrew)": "Unapproachable Light",
+"Name (English)": "Unapproachable Light",
+"Day": 2,
+"Scripture Reference": "Psalm 104:2",
+"Key Phrase (BSB)": "He wraps Himself in light as with a garment; He stretches out the heavens like a tent."
+},
+{
+"Week": 48,
+"Name (Hebrew)": "Unapproachable Light",
+"Name (English)": "Unapproachable Light",
+"Day": 3,
+"Scripture Reference": "John 1:5",
+"Key Phrase (BSB)": "The Light shines in the darkness, and the darkness has not overcome it."
+},
+{
+"Week": 48,
+"Name (Hebrew)": "Unapproachable Light",
+"Name (English)": "Unapproachable Light",
+"Day": 4,
+"Scripture Reference": "Psalm 36:9",
+"Key Phrase (BSB)": "In Your light we see light."
+},
+{
+"Week": 48,
+"Name (Hebrew)": "Unapproachable Light",
+"Name (English)": "Unapproachable Light",
+"Day": 5,
+"Scripture Reference": "Isaiah 60:19",
+"Key Phrase (BSB)": "The LORD will be your everlasting light, and your God will be your glory."
+},
+{
+"Week": 48,
+"Name (Hebrew)": "Unapproachable Light",
+"Name (English)": "Unapproachable Light",
+"Day": 6,
+"Scripture Reference": "Revelation 21:23",
+"Key Phrase (BSB)": "The city does not need the sun or the moon to shine on it, for the glory of God gives it light."
+},
+{
+"Week": 48,
+"Name (Hebrew)": "Unapproachable Light",
+"Name (English)": "Unapproachable Light",
+"Day": 7,
+"Scripture Reference": "James 1:17",
+"Key Phrase (BSB)": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights."
+},
+{
+"Week": 49,
+"Name (Hebrew)": "Revealer of Mysteries",
+"Name (English)": "Revealer of Mysteries",
+"Day": 1,
+"Scripture Reference": "Daniel 2:28",
+"Key Phrase (BSB)": "But there is a God in heaven who reveals mysteries."
+},
+{
+"Week": 49,
+"Name (Hebrew)": "Revealer of Mysteries",
+"Name (English)": "Revealer of Mysteries",
+"Day": 2,
+"Scripture Reference": "Romans 16:25-26",
+"Key Phrase (BSB)": "The revelation of the mystery hidden for long ages past, but now revealed and made known."
+},
+{
+"Week": 49,
+"Name (Hebrew)": "Revealer of Mysteries",
+"Name (English)": "Revealer of Mysteries",
+"Day": 3,
+"Scripture Reference": "1 Corinthians 2:7-10",
+"Key Phrase (BSB)": "God has revealed it to us by His Spirit. The Spirit searches all things, even the deep things of God."
+},
+{
+"Week": 49,
+"Name (Hebrew)": "Revealer of Mysteries",
+"Name (English)": "Revealer of Mysteries",
+"Day": 4,
+"Scripture Reference": "Ephesians 3:3-5",
+"Key Phrase (BSB)": "The mystery made known to me by revelation, which was not made known to men in other generations."
+},
+{
+"Week": 49,
+"Name (Hebrew)": "Revealer of Mysteries",
+"Name (English)": "Revealer of Mysteries",
+"Day": 5,
+"Scripture Reference": "Colossians 1:26-27",
+"Key Phrase (BSB)": "The mystery that has been kept hidden for ages but is now disclosed: Christ in you, the hope of glory."
+},
+{
+"Week": 49,
+"Name (Hebrew)": "Revealer of Mysteries",
+"Name (English)": "Revealer of Mysteries",
+"Day": 6,
+"Scripture Reference": "Amos 3:7",
+"Key Phrase (BSB)": "Surely the Lord GOD does nothing without revealing His plan to His servants the prophets."
+},
+{
+"Week": 49,
+"Name (Hebrew)": "Revealer of Mysteries",
+"Name (English)": "Revealer of Mysteries",
+"Day": 7,
+"Scripture Reference": "Luke 8:10",
+"Key Phrase (BSB)": "The knowledge of the mysteries of the kingdom of God has been given to you."
+},
+{
+"Week": 50,
+"Name (Hebrew)": "Restorer",
+"Name (English)": "Restorer",
+"Day": 1,
+"Scripture Reference": "Psalm 23:3",
+"Key Phrase (BSB)": "He restores my soul. He leads me in paths of righteousness for His name's sake."
+},
+{
+"Week": 50,
+"Name (Hebrew)": "Restorer",
+"Name (English)": "Restorer",
+"Day": 2,
+"Scripture Reference": "Isaiah 58:12",
+"Key Phrase (BSB)": "You will be called Repairer of Broken Walls, Restorer of Streets with Dwellings."
+},
+{
+"Week": 50,
+"Name (Hebrew)": "Restorer",
+"Name (English)": "Restorer",
+"Day": 3,
+"Scripture Reference": "Jeremiah 30:17",
+"Key Phrase (BSB)": "I will restore your health and heal your wounds, declares the LORD."
+},
+{
+"Week": 50,
+"Name (Hebrew)": "Restorer",
+"Name (English)": "Restorer",
+"Day": 4,
+"Scripture Reference": "Joel 2:25",
+"Key Phrase (BSB)": "I will restore to you the years that the swarming locust has eaten."
+},
+{
+"Week": 50,
+"Name (Hebrew)": "Restorer",
+"Name (English)": "Restorer",
+"Day": 5,
+"Scripture Reference": "Acts 3:21",
+"Key Phrase (BSB)": "Heaven must receive Him until the time comes for God to restore everything."
+},
+{
+"Week": 50,
+"Name (Hebrew)": "Restorer",
+"Name (English)": "Restorer",
+"Day": 6,
+"Scripture Reference": "Psalm 51:12",
+"Key Phrase (BSB)": "Restore to me the joy of Your salvation, and sustain me with a willing spirit."
+},
+{
+"Week": 50,
+"Name (Hebrew)": "Restorer",
+"Name (English)": "Restorer",
+"Day": 7,
+"Scripture Reference": "Zechariah 9:12",
+"Key Phrase (BSB)": "Return to your stronghold, O prisoners of hope; even today I declare that I will restore double to you."
+},
+{
+"Week": 51,
+"Name (Hebrew)": "Comforter",
+"Name (English)": "Comforter",
+"Day": 1,
+"Scripture Reference": "Psalm 23:4",
+"Key Phrase (BSB)": "Even though I walk through the valley of the shadow of death, I will fear no evil, for You are with me."
+},
+{
+"Week": 51,
+"Name (Hebrew)": "Comforter",
+"Name (English)": "Comforter",
+"Day": 2,
+"Scripture Reference": "Isaiah 51:12",
+"Key Phrase (BSB)": "I, yes I, am He who comforts you."
+},
+{
+"Week": 51,
+"Name (Hebrew)": "Comforter",
+"Name (English)": "Comforter",
+"Day": 3,
+"Scripture Reference": "2 Corinthians 1:3-4",
+"Key Phrase (BSB)": "The Father of compassion and the God of all comfort, who comforts us in all our troubles."
+},
+{
+"Week": 51,
+"Name (Hebrew)": "Comforter",
+"Name (English)": "Comforter",
+"Day": 4,
+"Scripture Reference": "John 14:16",
+"Key Phrase (BSB)": "I will ask the Father, and He will give you another Advocate to be with you forever."
+},
+{
+"Week": 51,
+"Name (Hebrew)": "Comforter",
+"Name (English)": "Comforter",
+"Day": 5,
+"Scripture Reference": "John 16:7",
+"Key Phrase (BSB)": "It is for your benefit that I am going away. Unless I go away, the Advocate will not come to you."
+},
+{
+"Week": 51,
+"Name (Hebrew)": "Comforter",
+"Name (English)": "Comforter",
+"Day": 6,
+"Scripture Reference": "Romans 15:5",
+"Key Phrase (BSB)": "May the God of endurance and encouragement grant you harmony with one another."
+},
+{
+"Week": 51,
+"Name (Hebrew)": "Comforter",
+"Name (English)": "Comforter",
+"Day": 7,
+"Scripture Reference": "Philippians 2:1",
+"Key Phrase (BSB)": "If you have any encouragement in Christ, any comfort from His love, any fellowship with the Spirit."
+},
+{
+"Week": 52,
+"Name (Hebrew)": "Glorious",
+"Name (English)": "Glorious",
+"Day": 1,
+"Scripture Reference": "Psalm 19:1",
+"Key Phrase (BSB)": "The heavens declare the glory of God; the skies proclaim the work of His hands."
+},
+{
+"Week": 52,
+"Name (Hebrew)": "Glorious",
+"Name (English)": "Glorious",
+"Day": 2,
+"Scripture Reference": "Psalm 29:2",
+"Key Phrase (BSB)": "Ascribe to the LORD the glory due His name; worship the LORD in the splendor of His holiness."
+},
+{
+"Week": 52,
+"Name (Hebrew)": "Glorious",
+"Name (English)": "Glorious",
+"Day": 3,
+"Scripture Reference": "Isaiah 6:3",
+"Key Phrase (BSB)": "Holy, Holy, Holy is the LORD of Hosts; the whole earth is full of His glory!"
+},
+{
+"Week": 52,
+"Name (Hebrew)": "Glorious",
+"Name (English)": "Glorious",
+"Day": 4,
+"Scripture Reference": "Romans 1:23",
+"Key Phrase (BSB)": "The glory of the immortal God."
+},
+{
+"Week": 52,
+"Name (Hebrew)": "Glorious",
+"Name (English)": "Glorious",
+"Day": 5,
+"Scripture Reference": "Hebrews 1:3",
+"Key Phrase (BSB)": "The Son is the radiance of God's glory and the exact representation of His nature."
+},
+{
+"Week": 52,
+"Name (Hebrew)": "Glorious",
+"Name (English)": "Glorious",
+"Day": 6,
+"Scripture Reference": "Revelation 4:11",
+"Key Phrase (BSB)": "You are worthy, our Lord and God, to receive glory and honor and power."
+},
+{
+"Week": 52,
+"Name (Hebrew)": "Glorious",
+"Name (English)": "Glorious",
+"Day": 7,
+"Scripture Reference": "Psalm 138:5",
+"Key Phrase (BSB)": "They will sing of the ways of the LORD, for great is the glory of the LORD."
+}
+],
+"release": [
+{
+"ID": "R01",
+"Prompt Statement": "I surrender my time, my calendar, my schedule.",
+"Primary Scripture": "Psalm 31:15",
+"Primary Scripture Text (BSB)": "My times are in Your hands; deliver me from my enemies and from those who pursue me.",
+"See Also References": "Proverbs 16:9; James 4:13-15",
+"Type": "Surrender"
+},
+{
+"ID": "R02",
+"Prompt Statement": "My body is a sacrifice to You.",
+"Primary Scripture": "Romans 12:1",
+"Primary Scripture Text (BSB)": "Therefore I urge you, brothers, on the basis of God's mercy, to offer your bodies as living sacrifices, holy and pleasing to God, which is your spiritual service of worship.",
+"See Also References": "1 Corinthians 6:19-20",
+"Type": "Surrender"
+},
+{
+"ID": "R03",
+"Prompt Statement": "I offer my mind and thoughts.",
+"Primary Scripture": "Philippians 4:8",
+"Primary Scripture Text (BSB)": "Finally, brothers, whatever is true, whatever is honorable, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — if anything is excellent or praiseworthy — think on these things.",
+"See Also References": "2 Corinthians 10:5; Romans 12:2",
+"Type": "Surrender"
+},
+{
+"ID": "R04",
+"Prompt Statement": "Work, effort, service, energy — the strength You gift.",
+"Primary Scripture": "Colossians 3:23",
+"Primary Scripture Text (BSB)": "Whatever you do, work at it with your whole being, for the Lord and not for men.",
+"See Also References": "1 Corinthians 10:31",
+"Type": "Surrender"
+},
+{
+"ID": "R05",
+"Prompt Statement": "I surrender my will to Your desire.",
+"Primary Scripture": "Luke 22:42",
+"Primary Scripture Text (BSB)": "\"Father, if You are willing, take this cup from Me. Yet not My will, but Yours be done.\"",
+"See Also References": "Proverbs 3:5-6; Matthew 26:39",
+"Type": "Surrender"
+},
+{
+"ID": "R06",
+"Prompt Statement": "I surrender my expectations.",
+"Primary Scripture": "Proverbs 16:9",
+"Primary Scripture Text (BSB)": "A man's heart plans his course, but the LORD determines his steps.",
+"See Also References": "Isaiah 55:8-9; Jeremiah 29:11",
+"Type": "Surrender"
+},
+{
+"ID": "R07",
+"Prompt Statement": "I surrender my emotions to You.",
+"Primary Scripture": "Psalm 62:8",
+"Primary Scripture Text (BSB)": "Trust in Him at all times, O people; pour out your hearts before Him. God is our refuge.",
+"See Also References": "1 Peter 5:7; Psalm 42:5",
+"Type": "Surrender"
+},
+{
+"ID": "R08",
+"Prompt Statement": "I surrender my senses. I gouge out my eye. Covenant with vision.",
+"Primary Scripture": "Job 31:1",
+"Primary Scripture Text (BSB)": "I have made a covenant with my eyes. How then could I gaze at a young woman?",
+"See Also References": "Matthew 5:29; Psalm 101:3",
+"Type": "Surrender"
+},
+{
+"ID": "R09",
+"Prompt Statement": "I surrender my worry and care.",
+"Primary Scripture": "1 Peter 5:7",
+"Primary Scripture Text (BSB)": "Cast all your anxiety on Him, because He cares for you.",
+"See Also References": "Philippians 4:6-7; Matthew 6:25-27",
+"Type": "Surrender"
+},
+{
+"ID": "R10",
+"Prompt Statement": "I surrender my hope.",
+"Primary Scripture": "Psalm 39:7",
+"Primary Scripture Text (BSB)": "And now, Lord, for what do I wait? My hope is in You.",
+"See Also References": "Romans 15:13; Jeremiah 17:7",
+"Type": "Surrender"
+},
+{
+"ID": "R11",
+"Prompt Statement": "I invite Your rule in my life, my family, my church, my nation.",
+"Primary Scripture": "Matthew 6:10",
+"Primary Scripture Text (BSB)": "Your kingdom come, Your will be done, on earth as it is in heaven.",
+"See Also References": "Psalm 22:28; Daniel 2:44",
+"Type": "Invite"
+},
+{
+"ID": "R12",
+"Prompt Statement": "I surrender my image and reputation.",
+"Primary Scripture": "Philippians 2:7",
+"Primary Scripture Text (BSB)": "but emptied Himself, taking the form of a servant, being made in human likeness.",
+"See Also References": "Galatians 1:10; 1 Corinthians 4:3",
+"Type": "Surrender"
+},
+{
+"ID": "R13",
+"Prompt Statement": "I surrender to Your control and trust You will control it.",
+"Primary Scripture": "Proverbs 3:5-6",
+"Primary Scripture Text (BSB)": "Trust in the LORD with all your heart, and lean not on your own understanding; in all your ways acknowledge Him, and He will make your paths straight.",
+"See Also References": "",
+"Type": "Surrender"
+},
+{
+"ID": "R14",
+"Prompt Statement": "I invite You, Holy Spirit, to speak to my mind and control my mind.",
+"Primary Scripture": "Romans 8:6",
+"Primary Scripture Text (BSB)": "The mind of the flesh is death, but the mind of the Spirit is life and peace.",
+"See Also References": "John 14:26; Galatians 5:16",
+"Type": "Invite"
+},
+{
+"ID": "R15",
+"Prompt Statement": "Don't answer my list — give me Your list.",
+"Primary Scripture": "Isaiah 55:8-9",
+"Primary Scripture Text (BSB)": "\"For My thoughts are not your thoughts, neither are your ways My ways,\" declares the LORD. \"For as the heavens are higher than the earth, so My ways are higher than your ways and My thoughts than your thoughts.\"",
+"See Also References": "Proverbs 16:1",
+"Type": "Surrender"
+},
+{
+"ID": "R16",
+"Prompt Statement": "Don't give what I want; give what You want for me.",
+"Primary Scripture": "Romans 8:28",
+"Primary Scripture Text (BSB)": "And we know that God works all things together for the good of those who love Him, who are called according to His purpose.",
+"See Also References": "Matthew 7:9-11",
+"Type": "Surrender"
+},
+{
+"ID": "R17",
+"Prompt Statement": "Your list for me is better than my list for me.",
+"Primary Scripture": "Ephesians 3:20",
+"Primary Scripture Text (BSB)": "Now to Him who is able to do immeasurably more than all we ask or imagine, according to His power that is at work within us.",
+"See Also References": "Jeremiah 29:11",
+"Type": "Surrender"
+},
+{
+"ID": "R18",
+"Prompt Statement": "Knowing You won't fill what's full. Let me empty myself.",
+"Primary Scripture": "Philippians 2:5-7",
+"Primary Scripture Text (BSB)": "Let this mind be in you which was also in Christ Jesus, who, existing in the form of God, did not consider equality with God something to be grasped, but emptied Himself, taking the form of a servant...",
+"See Also References": "Matthew 16:24-25",
+"Type": "Surrender"
+},
+{
+"ID": "R19",
+"Prompt Statement": "Return to Him what was given by Him.",
+"Primary Scripture": "1 Chronicles 29:14",
+"Primary Scripture Text (BSB)": "But who am I, and who are my people, that we should be able to give as generously as this? For everything comes from You, and from Your own hand we have given to You.",
+"See Also References": "",
+"Type": "Surrender"
+},
+{
+"ID": "R20",
+"Prompt Statement": "Surrender focus that attempts to control health.",
+"Primary Scripture": "Matthew 6:27",
+"Primary Scripture Text (BSB)": "Who of you by worrying can add a single hour to his life?",
+"See Also References": "Psalm 139:16; James 4:14",
+"Type": "Surrender"
+},
+{
+"ID": "R21",
+"Prompt Statement": "Crush my idols. It's all You. Not my strength but Your strength in me.",
+"Primary Scripture": "2 Corinthians 12:9",
+"Primary Scripture Text (BSB)": "But He said to me, \"My grace is sufficient for you, for My power is perfected in weakness.\" Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest on me.",
+"See Also References": "Ezekiel 14:6; Isaiah 42:8",
+"Type": "Surrender"
+},
+{
+"ID": "R22",
+"Prompt Statement": "My existence is a gift returned in sacrifice.",
+"Primary Scripture": "1 Chronicles 29:14",
+"Primary Scripture Text (BSB)": "But who am I, and who are my people, that we should be able to give as generously as this? For everything comes from You, and from Your own hand we have given to You.",
+"See Also References": "Romans 12:1",
+"Type": "Surrender"
+}
+],
+"ask": [
+{
+"ID": "A01",
+"Prayer Prompt": "Guard them.",
+"Primary Scripture": "John 17:11-12",
+"Primary Scripture Text (BSB)": "I am no longer in the world, but they are in the world, and I am coming to You. Holy Father, protect them by Your name, the name You gave Me, so that they may be one as We are one. While I was with them, I kept them and preserved them by Your name, the name You gave Me.",
+"See Also References": "",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A02",
+"Prayer Prompt": "Fill them with joy.",
+"Primary Scripture": "John 17:13",
+"Primary Scripture Text (BSB)": "But now I am coming to You, and I speak these things while I am in the world, so that they may have My joy fulfilled within them.",
+"See Also References": "Nehemiah 8:10; Romans 15:13",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A03",
+"Prayer Prompt": "Keep them safe from the evil one.",
+"Primary Scripture": "John 17:15",
+"Primary Scripture Text (BSB)": "I am not asking that You take them out of the world, but that You keep them from the evil one.",
+"See Also References": "2 Thessalonians 3:3",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A04",
+"Prayer Prompt": "Make them holy by Your truth. Your word is truth.",
+"Primary Scripture": "John 17:17",
+"Primary Scripture Text (BSB)": "Sanctify them by the truth; Your word is truth.",
+"See Also References": "Ephesians 5:26; Psalm 119:9",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A05",
+"Prayer Prompt": "Teach them Your word.",
+"Primary Scripture": "John 17:17",
+"Primary Scripture Text (BSB)": "Sanctify them by the truth; Your word is truth.",
+"See Also References": "2 Timothy 3:16-17; Psalm 119:105",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A06",
+"Prayer Prompt": "Open the eyes of their heart.",
+"Primary Scripture": "Ephesians 1:18",
+"Primary Scripture Text (BSB)": "I pray that the eyes of your heart may be enlightened, so that you may know the hope of His calling, the riches of His glorious inheritance in the saints.",
+"See Also References": "Ephesians 1:17-20",
+"For": "Others",
+"Source": "Prayer Prompts"
+},
+{
+"ID": "A07",
+"Prayer Prompt": "Thank God for their faith.",
+"Primary Scripture": "Colossians 1:3-4",
+"Primary Scripture Text (BSB)": "We always thank God, the Father of our Lord Jesus Christ, when we pray for you, because we have heard of your faith in Christ Jesus and of the love you have for all the saints.",
+"See Also References": "1 Thessalonians 1:2-3",
+"For": "Others",
+"Source": "Prayer Prompts"
+},
+{
+"ID": "A08",
+"Prayer Prompt": "That they would know Him and His will.",
+"Primary Scripture": "Colossians 1:9",
+"Primary Scripture Text (BSB)": "For this reason, since the day we heard about you, we have not stopped praying for you and asking God to fill you with the knowledge of His will in all spiritual wisdom and understanding.",
+"See Also References": "Ephesians 1:17; Philippians 1:9-10",
+"For": "Others",
+"Source": "Prayer Prompts"
+},
+{
+"ID": "A09",
+"Prayer Prompt": "Wisdom and understanding.",
+"Primary Scripture": "Colossians 1:9",
+"Primary Scripture Text (BSB)": "For this reason, since the day we heard about you, we have not stopped praying for you and asking God to fill you with the knowledge of His will in all spiritual wisdom and understanding.",
+"See Also References": "James 1:5; Proverbs 2:6",
+"For": "Others",
+"Source": "Prayer Prompts"
+},
+{
+"ID": "A10",
+"Prayer Prompt": "To live honorable and pleasing lives.",
+"Primary Scripture": "Colossians 1:10",
+"Primary Scripture Text (BSB)": "so that you may walk in a manner worthy of the Lord and may please Him in every way: bearing fruit in every good work, growing in the knowledge of God.",
+"See Also References": "Ephesians 4:1; 1 Thessalonians 2:12",
+"For": "Others",
+"Source": "Prayer Prompts"
+},
+{
+"ID": "A11",
+"Prayer Prompt": "Strength to endure and persist.",
+"Primary Scripture": "Colossians 1:11",
+"Primary Scripture Text (BSB)": "being strengthened with all power according to His glorious might so that you may have full endurance and patience,",
+"See Also References": "Ephesians 3:16; Isaiah 40:31",
+"For": "Others",
+"Source": "Prayer Prompts"
+},
+{
+"ID": "A12",
+"Prayer Prompt": "Joy and gratitude.",
+"Primary Scripture": "Colossians 1:11-12",
+"Primary Scripture Text (BSB)": "being strengthened with all power according to His glorious might so that you may have full endurance and patience, and joyfully giving thanks to the Father, who has qualified you to share in the inheritance of the saints in the light.",
+"See Also References": "1 Thessalonians 5:16-18",
+"For": "Others",
+"Source": "Prayer Prompts"
+},
+{
+"ID": "A13",
+"Prayer Prompt": "That God would be glorified.",
+"Primary Scripture": "John 17:1-2",
+"Primary Scripture Text (BSB)": "After Jesus had spoken these things, He lifted up His eyes to heaven and said, \"Father, the hour has come. Glorify Your Son, that Your Son may glorify You. For You granted Him authority over all people, so that He may give eternal life to all those You have given Him.\"",
+"See Also References": "John 17:4-5",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A14",
+"Prayer Prompt": "That they would know God — the only true God.",
+"Primary Scripture": "John 17:3",
+"Primary Scripture Text (BSB)": "Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent.",
+"See Also References": "",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A15",
+"Prayer Prompt": "That they would keep Your word.",
+"Primary Scripture": "John 17:6",
+"Primary Scripture Text (BSB)": "I have revealed Your name to those You gave Me out of the world. They were Yours; You gave them to Me, and they have kept Your word.",
+"See Also References": "",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A16",
+"Prayer Prompt": "That they would know everything is a gift.",
+"Primary Scripture": "John 17:7",
+"Primary Scripture Text (BSB)": "Now they know that everything You have given Me comes from You.",
+"See Also References": "1 Chronicles 29:14; James 1:17",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A17",
+"Prayer Prompt": "Spreading the message. That they would accept and believe.",
+"Primary Scripture": "John 17:8",
+"Primary Scripture Text (BSB)": "For I have given them the words You gave Me, and they have received them. They knew with certainty that I came from You, and they believed that You sent Me.",
+"See Also References": "",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A18",
+"Prayer Prompt": "His glory in us.",
+"Primary Scripture": "John 17:10",
+"Primary Scripture Text (BSB)": "All I have is Yours, and all You have is Mine; and I have been glorified in them.",
+"See Also References": "John 17:9",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A19",
+"Prayer Prompt": "Unity — that they may be one.",
+"Primary Scripture": "John 17:11",
+"Primary Scripture Text (BSB)": "I am no longer in the world, but they are in the world, and I am coming to You. Holy Father, protect them by Your name, the name You gave Me, so that they may be one as We are one.",
+"See Also References": "John 17:21-23",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A20",
+"Prayer Prompt": "Separation from the world — set apart.",
+"Primary Scripture": "John 17:14-16",
+"Primary Scripture Text (BSB)": "I have given them Your word, and the world has hated them; for they are not of the world, just as I am not of the world. I am not asking that You take them out of the world, but that You keep them from the evil one. They are not of the world, just as I am not of the world.",
+"See Also References": "John 17:17-18",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A21",
+"Prayer Prompt": "Roots — that they would abide in You. Fruits — that others would believe.",
+"Primary Scripture": "John 17:21",
+"Primary Scripture Text (BSB)": "that all of them may be one, as You, Father, are in Me, and I am in You. May they also be in Us, so that the world may believe that You sent Me.",
+"See Also References": "",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A22",
+"Prayer Prompt": "That they would understand the glory You have gifted.",
+"Primary Scripture": "John 17:22",
+"Primary Scripture Text (BSB)": "I have given them the glory You gave Me, so that they may be one as We are one.",
+"See Also References": "",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A23",
+"Prayer Prompt": "That Christ would dwell in them. That the world sees God's love and unity.",
+"Primary Scripture": "John 17:23",
+"Primary Scripture Text (BSB)": "I in them and You in Me — that they may be perfectly united, so that the world may know that You sent Me and have loved them just as You have loved Me.",
+"See Also References": "",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A24",
+"Prayer Prompt": "To be with Christ and see the fullness of His glory.",
+"Primary Scripture": "John 17:24",
+"Primary Scripture Text (BSB)": "Father, I want those You have given Me to be with Me where I am, that they may see the glory You gave Me because You loved Me before the foundation of the world.",
+"See Also References": "",
+"For": "Others",
+"Source": "John 17 Prompts"
+},
+{
+"ID": "A25",
+"Prayer Prompt": "Be revealed among us and to the world. Fill us with Your love.",
+"Primary Scripture": "John 17:25-26",
+"Primary Scripture Text (BSB)": "Righteous Father, although the world has not known You, I know You, and these know that You sent Me. I have made Your name known to them and will continue to make it known, so that the love You have for Me may be in them, and I Myself may be in them.",
+"See Also References": "",
+"For": "Others",
+"Source": "John 17 Prompts"
+}
+],
+"yearn": [
+{
+"ID": "Y01",
+"Confession Prompt": "Search me for the lust of the eyes.",
+"Guidance": "What am I looking at that I should not? Where have my eyes led my heart?",
+"Primary Scripture": "1 John 2:16",
+"Primary Scripture Text (BSB)": "For all that is in the world — the desires of the flesh, the desires of the eyes, and the pride of life — is not from the Father but from the world.",
+"See Also References": "Matthew 5:28; Job 31:1",
+"Area": "Lust"
+},
+{
+"ID": "Y02",
+"Confession Prompt": "Search me for fleshly appetites.",
+"Guidance": "Where have I indulged the flesh instead of walking by the Spirit?",
+"Primary Scripture": "Galatians 5:16",
+"Primary Scripture Text (BSB)": "So I say, walk by the Spirit, and you will not gratify the desires of the flesh.",
+"See Also References": "Romans 13:14; 1 Peter 2:11",
+"Area": "Flesh"
+},
+{
+"ID": "Y03",
+"Confession Prompt": "Search me for the pride of life and accomplishments.",
+"Guidance": "Where have I taken credit for what You gave? Where is my identity built on performance?",
+"Primary Scripture": "Proverbs 16:18",
+"Primary Scripture Text (BSB)": "Pride goes before destruction, and a haughty spirit before a fall.",
+"See Also References": "1 John 2:16; James 4:6; Philippians 3:7-8",
+"Area": "Pride"
+},
+{
+"ID": "Y04",
+"Confession Prompt": "Search me for impatience.",
+"Guidance": "Where have I demanded my timeline over Yours?",
+"Primary Scripture": "James 1:19-20",
+"Primary Scripture Text (BSB)": "My beloved brothers, understand this: Everyone should be quick to listen, slow to speak, and slow to anger, for man's anger does not bring about the righteousness that God desires.",
+"See Also References": "Proverbs 14:29; Ecclesiastes 7:9",
+"Area": "Anger"
+},
+{
+"ID": "Y05",
+"Confession Prompt": "Search me for irritability.",
+"Guidance": "Where have I let minor offenses produce major reactions?",
+"Primary Scripture": "Proverbs 19:11",
+"Primary Scripture Text (BSB)": "A man's insight gives him patience, and his virtue is to overlook an offense.",
+"See Also References": "1 Corinthians 13:5; Ephesians 4:2",
+"Area": "Anger"
+},
+{
+"ID": "Y06",
+"Confession Prompt": "Expose the sin hidden by my own deceit.",
+"Guidance": "Let me see what I have been hiding from myself. My heart is deceitful; only You can search it.",
+"Primary Scripture": "Jeremiah 17:9-10",
+"Primary Scripture Text (BSB)": "The heart is deceitful above all things and desperately wicked. Who can understand it? I, the LORD, search the heart; I examine the mind to reward a man according to his way, by what his deeds deserve.",
+"See Also References": "Psalm 139:23-24; Hebrews 4:13",
+"Area": "Deceit"
+}
+],
+"invite": [
+{
+"ID": "I01",
+"Forgiveness Prompt": "Remember all I have been forgiven. We all have heart cancer.",
+"Primary Scripture": "Ephesians 4:32",
+"Primary Scripture Text (BSB)": "Be kind and tenderhearted to one another, forgiving each other just as in Christ God forgave you.",
+"See Also References": "Colossians 3:13; Matthew 18:21-35"
+},
+{
+"ID": "I02",
+"Forgiveness Prompt": "I am one of the 'difficult' people.",
+"Primary Scripture": "Romans 3:23",
+"Primary Scripture Text (BSB)": "for all have sinned and fall short of the glory of God.",
+"See Also References": "1 Timothy 1:15; Isaiah 64:6"
+},
+{
+"ID": "I03",
+"Forgiveness Prompt": "Base coaches, not umpires. Don't swing at every pitch.",
+"Primary Scripture": "Romans 14:4",
+"Primary Scripture Text (BSB)": "Who are you to judge someone else's servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand.",
+"See Also References": "Matthew 7:1-5; James 4:12"
+},
+{
+"ID": "I04",
+"Forgiveness Prompt": "No one owes me an apology, respect, or attention. Because I am a debtor.",
+"Primary Scripture": "Matthew 18:32-33",
+"Primary Scripture Text (BSB)": "Then the master summoned him and said, 'You wicked servant! I forgave all that debt of yours because you begged me. Shouldn't you have had mercy on your fellow servant, just as I had on you?'",
+"See Also References": "Luke 7:41-47; Romans 13:8"
+},
+{
+"ID": "I05",
+"Forgiveness Prompt": "God will judge. I have no image to protect and no reputation to uphold.",
+"Primary Scripture": "Romans 12:19",
+"Primary Scripture Text (BSB)": "Do not avenge yourselves, beloved, but leave room for God's wrath. For it is written: \"Vengeance is Mine; I will repay, says the Lord.\"",
+"See Also References": "1 Corinthians 4:3-5; 1 Peter 2:23"
+},
+{
+"ID": "I06",
+"Forgiveness Prompt": "I owe more than I am owed.",
+"Primary Scripture": "Matthew 18:24-27",
+"Primary Scripture Text (BSB)": "As he began the settlement, a man who owed him ten thousand talents was brought to him. Since the man was unable to pay, the master ordered that he and his wife and children and all his possessions be sold to pay the debt. Then the servant fell on his knees before him. 'Be patient with me,' he begged, 'and I will pay back everything.' The master of that servant had compassion, released him, and forgave his debt.",
+"See Also References": "Luke 17:10"
+},
+{
+"ID": "I07",
+"Forgiveness Prompt": "God loves hateful, mean people. He loves my enemies. I must be like Him.",
+"Primary Scripture": "Matthew 5:44-45",
+"Primary Scripture Text (BSB)": "But I tell you, love your enemies and pray for those who persecute you, that you may be sons of your Father in heaven. For He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.",
+"See Also References": "Romans 5:8; Luke 6:27-28"
+},
+{
+"ID": "I08",
+"Forgiveness Prompt": "All infected. All have rags. Make allowance for each other's faults.",
+"Primary Scripture": "Colossians 3:13",
+"Primary Scripture Text (BSB)": "Bear with one another and forgive any complaint you may have against someone else. Forgive as the Lord forgave you.",
+"See Also References": "Isaiah 64:6; Ephesians 4:2"
+},
+{
+"ID": "I09",
+"Forgiveness Prompt": "Pray for enemies.",
+"Primary Scripture": "Matthew 5:44",
+"Primary Scripture Text (BSB)": "But I tell you, love your enemies and pray for those who persecute you.",
+"See Also References": "Luke 6:28; Romans 12:14, 20"
+}
+],
+"navigate": [
+{
+"ID": "N01",
+"Resistance Prompt": "Help me resist and run.",
+"Primary Scripture": "James 4:7",
+"Primary Scripture Text (BSB)": "Submit yourselves, then, to God. Resist the devil, and he will flee from you.",
+"See Also References": "1 Corinthians 6:18; 2 Timothy 2:22"
+},
+{
+"ID": "N02",
+"Resistance Prompt": "Help me realize I have no obligation to obey temptation.",
+"Primary Scripture": "Romans 6:14",
+"Primary Scripture Text (BSB)": "For sin shall not be your master, because you are not under law, but under grace.",
+"See Also References": "Romans 8:12; Galatians 5:1"
+},
+{
+"ID": "N03",
+"Resistance Prompt": "This is a test of my trust in You.",
+"Primary Scripture": "1 Corinthians 10:13",
+"Primary Scripture Text (BSB)": "No temptation has seized you except what is common to man. And God is faithful; He will not let you be tempted beyond what you can bear. But when you are tempted, He will also provide an escape, so that you can stand up under it.",
+"See Also References": "James 1:2-4; James 1:12"
+},
+{
+"ID": "N04",
+"Resistance Prompt": "I yield my senses. I gouge out my eye. Covenant with my vision.",
+"Primary Scripture": "Matthew 5:29",
+"Primary Scripture Text (BSB)": "If your right eye causes you to sin, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.",
+"See Also References": "Job 31:1; Psalm 101:3; Psalm 119:37"
+},
+{
+"ID": "N05",
+"Resistance Prompt": "Let me offer unqualified availability to Your purposes, not my desires.",
+"Primary Scripture": "Romans 6:13",
+"Primary Scripture Text (BSB)": "Do not present the parts of your body to sin as instruments of wickedness, but present yourselves to God as those who have been brought from death to life; and present the parts of your body to Him as instruments of righteousness.",
+"See Also References": "Romans 12:1; Galatians 5:16"
+}
+],
+"guard": [
+{
+"ID": "G01",
+"Protection Prompt": "Let me remain undevoured.",
+"Primary Scripture": "1 Peter 5:8",
+"Primary Scripture Text (BSB)": "Be sober-minded and alert. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.",
+"See Also References": "Ephesians 6:11; John 10:10"
+},
+{
+"ID": "G02",
+"Protection Prompt": "Hide my weakness behind Your strength.",
+"Primary Scripture": "2 Corinthians 12:9",
+"Primary Scripture Text (BSB)": "But He said to me, \"My grace is sufficient for you, for My power is perfected in weakness.\" Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest on me.",
+"See Also References": "Psalm 28:7; Isaiah 40:29"
+},
+{
+"ID": "G03",
+"Protection Prompt": "Make me deaf to evil's suggestion.",
+"Primary Scripture": "Ephesians 6:16",
+"Primary Scripture Text (BSB)": "In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one.",
+"See Also References": "2 Corinthians 10:5; Philippians 4:8"
+}
+]
+}
